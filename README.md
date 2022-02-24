@@ -3,6 +3,16 @@
 <h3 align="left">Web Framework</h3>
 <ul>
   <li>Laravel</li>
+  <li>Node JS</li>
+</ul>
+<h3 align="left">Web Frontend</h3>
+<ul>
+  <li>React JS</li>
+  <li>Vue JS</li>
+</ul>
+<h3 align="left">Mobile Development</h3>
+<ul>
+  <li>React Native</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
