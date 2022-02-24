@@ -9,6 +9,8 @@
 <ul>
   <li>React JS</li>
   <li>Vue JS</li>
+  <li>JQuery</li>
+  <li>HTML, Bootstrap, Tailwind CSS, Material UI</li>
 </ul>
 <h3 align="left">Mobile Development</h3>
 <ul>
