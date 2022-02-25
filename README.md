@@ -12,7 +12,7 @@
   <li>JQuery</li>
   <li>HTML, Bootstrap, Tailwind CSS, Material UI</li>
 </ul>
-<li>SMS Integration</li>
+<ol>SMS Integration</ol>
 <h3 align="left">Mobile Development</h3>
 <ul>
   <li>React Native</li>
