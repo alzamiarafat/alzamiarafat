@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AL Zami Arafat</h1>
-    <h3>I have 1.7 years experience in Web Development and Web Design. A passionate fullstack developer from Bangladesh
-    </h3>
+    <p>I have 1.7 years experience in Web Development and Web Design. A passionate fullstack developer from Bangladesh
+    </p>
     <h3 align="left">Web Framework</h3>
     <ul>
         <li>Laravel</li>
