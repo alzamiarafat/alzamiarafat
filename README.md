@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm AL Zami Arafat</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
-<h3 align="left">Web Framework</h3>
-<ul>
-  <li>Laravel</li>
-  <li>Node JS</li>
-</ul>
-<h3 align="left">Web Frontend</h3>
-<ul>
-  <li>React JS</li>
-  <li>Vue JS</li>
-  <li>JQuery</li>
-  <li>HTML, Bootstrap, Tailwind CSS, Material UI</li>
-</ul>
-<li align="left"><h3>SMS Integration</h3></li>
+    <h3>I have 1.7 years experience in Web Development and Web Design. A passionate fullstack developer from Bangladesh
+    </h3>
+    <h3 align="left">Web Framework</h3>
+    <ul>
+        <li>Laravel</li>
+        <li>Node JS</li>
+    </ul>
+    <h3 align="left">Web Frontend</h3>
+    <ul>
+        <li>React JS</li>
+        <li>Vue JS</li>
+        <li>JQuery</li>
+        <li>HTML, Bootstrap, Tailwind CSS, Material UI</li>
+    </ul>
+    <h3 align="left">Database</h3>
+    <ul>
+        <li>My SQL</li>
+        <li>MongoDB</li>
+        <li>SQL</li>
+    </ul>
+    <h3 align="left">SMS Integration</h3>
+    <li align="left">Boom cast</li>
+    <h3 align="left">Payment Gateway Integration</h3>
+    <ul>
+        <li align="left">SSL Commerz</li>
+    </ul>
 <h3 align="left">Mobile Development</h3>
 <ul>
   <li>React Native</li>
