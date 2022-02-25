@@ -13,6 +13,10 @@
         <li>JQuery</li>
         <li>HTML, Bootstrap, Tailwind CSS, Material UI</li>
     </ul>
+    <h3 align="left">Mobile Development</h3>
+<ul>
+  <li>React Native</li>
+</ul>
     <h3 align="left">Database</h3>
     <ul>
         <li>My SQL</li>
@@ -25,10 +29,7 @@
     <ul>
         <li align="left">SSL Commerz</li>
     </ul>
-<h3 align="left">Mobile Development</h3>
-<ul>
-  <li>React Native</li>
-</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/al-zami-arafat-8871b8201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/al-zami-arafat-8871b8201/" height="30" width="40" /></a>
