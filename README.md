@@ -27,6 +27,7 @@
     <li align="left">Boom cast</li>
     <h3 align="left">Payment Gateway Integration</h3>
     <ul>
+        <li align="left">Stripe</li>
         <li align="left">PayPal</li>
         <li align="left">SSL Commerz</li>
     </ul>
