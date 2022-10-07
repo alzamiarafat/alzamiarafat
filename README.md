@@ -9,7 +9,7 @@
     <h3 align="left">Web Frontend</h3>
     <ul>
         <li>React JS</li>
-        <li>Vue JS</li>
+        <li>Next JS</li>
         <li>JQuery</li>
         <li>HTML, Bootstrap, Tailwind CSS, Material UI</li>
     </ul>
