@@ -35,10 +35,10 @@
     </ul>
      <h3 align="left">Server</h3>
     <ul>
+        <li align="left">CI/CD Pipeline</li>
         <li align="left">Vultr</li>
         <li align="left">Contabo</li>
         <li align="left">Namecheap</li>
-        <li align="left">CI/CD Pipeline</li>
     </ul>
 
 <h3 align="left">Connect with me:</h3>
