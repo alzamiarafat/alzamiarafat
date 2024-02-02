@@ -27,12 +27,18 @@
     <h3 align="left">SMS Integration</h3>
     <li align="left">Boom cast</li>
     <li align="left">Infobip</li>
-    <li align="left">Infobip</li>
     <h3 align="left">Payment Gateway Integration</h3>
     <ul>
         <li align="left">Stripe</li>
         <li align="left">PayPal</li>
         <li align="left">SSL Commerz</li>
+    </ul>
+     <h3 align="left">Server</h3>
+    <ul>
+        <li align="left">Vultr</li>
+        <li align="left">Contabo</li>
+        <li align="left">Namecheap</li>
+        <li align="left">CI/CD Pipeline</li>
     </ul>
 
 <h3 align="left">Connect with me:</h3>
