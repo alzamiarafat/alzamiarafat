@@ -19,12 +19,15 @@
 </ul>
     <h3 align="left">Database</h3>
     <ul>
-        <li>My SQL</li>
+        <li>MySQL</li>
         <li>MongoDB</li>
+        <li>PostgreSQL</li>
         <li>SQL</li>
     </ul>
     <h3 align="left">SMS Integration</h3>
     <li align="left">Boom cast</li>
+    <li align="left">Infobip</li>
+    <li align="left">Infobip</li>
     <h3 align="left">Payment Gateway Integration</h3>
     <ul>
         <li align="left">Stripe</li>
