@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm AL Zami Arafat</h1>
-    <p>I have 3+ years experience in Web Development and Web Design. A passionate fullstack developer from Bangladesh
+<!--     <p>I have 3+ years experience in Web Development and Web Design. A passionate fullstack developer from Bangladesh</p> -->
+    <p>
+        I am a skilled software engineer specializing in web development with expertise in JavaScript, Node.js, and Laravel. Over the past three years, I have successfully delivered high-quality solutions and             demonstrated proficiency in handling complex projects.
     </p>
     <h3 align="left">Web Framework</h3>
     <ul>
