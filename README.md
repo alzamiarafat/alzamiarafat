@@ -13,12 +13,8 @@
             <strong>Next JS</strong>,
             <strong>HTML</strong>,
             <strong>Bootstrap</strong>,
-            <strong>Material UI</strong>,
+            <strong>Material UI</strong>
         </li>
-    </ul>
-    <h3 align="left">Web Frontend</h3>
-    <ul>
-       
     </ul>
     <h3 align="left">Mobile Development</h3>
 <ul>
