@@ -18,14 +18,18 @@
     </ul>
     <h3 align="left">Mobile Development</h3>
 <ul>
-  <li>React Native</li>
+    <li>
+        <strong>React Native</strong>
+    </li>
 </ul>
     <h3 align="left">Database</h3>
     <ul>
-        <li>MySQL</li>
-        <li>MongoDB</li>
-        <li>PostgreSQL</li>
-        <li>SQL</li>
+        <li>
+             <strong>MySQL</strong>,
+             <strong>MongoDB</strong>,
+             <strong>PostgreSQL</strong>,
+             <strong>SQL</strong>,
+        </li>
     </ul>
     <h3 align="left">SMS Integration</h3>
     <li align="left">Boom cast</li>
