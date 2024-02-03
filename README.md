@@ -48,10 +48,12 @@
     </ul>
     <h3 align="left">Server</h3>
     <ul>
-        <li align="left">CI/CD Pipeline</li>
-        <li align="left">Vultr</li>
-        <li align="left">Contabo</li>
-        <li align="left">Namecheap</li>
+        <li>
+             <strong>Namecheap</strong>,
+             <strong>CI/CD Pipeline</strong>,
+             <strong>Vultr</strong>,
+             <strong>Contabo</strong>
+        </li>
     </ul>
 
 <h3 align="left">Connect with me:</h3>
