@@ -6,7 +6,7 @@
     <h3 align="left">Web Development</h3>
     <ul>
         <li>
-            <strong>Laravel</strong>,
+            <strong><span class="badge badge-primary">Laravel</span></strong>,
             <strong>JQuery</strong>,
             <strong>Node JS</strong>,
             <strong>React JS</strong>,
@@ -28,19 +28,25 @@
              <strong>MySQL</strong>,
              <strong>MongoDB</strong>,
              <strong>PostgreSQL</strong>,
-             <strong>SQL</strong>,
+             <strong>SQL</strong>
         </li>
     </ul>
     <h3 align="left">SMS Integration</h3>
-    <li align="left">Boom cast</li>
-    <li align="left">Infobip</li>
+    <ul>
+        <li>
+             <strong>Boom cast</strong>,
+             <strong>Infobip</strong>
+        </li>
+    </ul>
     <h3 align="left">Payment Gateway Integration</h3>
     <ul>
-        <li align="left">Stripe</li>
-        <li align="left">PayPal</li>
-        <li align="left">SSL Commerz</li>
+        <li>
+             <strong>Stripe</strong>,
+             <strong>PayPal</strong>,
+             <strong>SSL Commerz</strong>
+        </li>
     </ul>
-     <h3 align="left">Server</h3>
+    <h3 align="left">Server</h3>
     <ul>
         <li align="left">CI/CD Pipeline</li>
         <li align="left">Vultr</li>
