@@ -3,17 +3,21 @@
     <p>
         I am a skilled software engineer specializing in web development with expertise in JavaScript, Node.js, and Laravel. Over the past three years, I have successfully delivered high-quality solutions and             demonstrated proficiency in handling complex projects.
     </p>
-    <h3 align="left">Web Framework</h3>
+    <h3 align="left">Web Development</h3>
+    <strong>Laravel</strong>,
+     <strong>Laravel</strong>,
+      <strong>Laravel</strong>,
     <ul>
         <li>Laravel</li>
         <li>Node JS</li>
-    </ul>
-    <h3 align="left">Web Frontend</h3>
-    <ul>
-        <li>React JS</li>
+         <li>React JS</li>
         <li>Next JS</li>
         <li>JQuery</li>
         <li>HTML, Bootstrap, Tailwind CSS, Material UI</li>
+    </ul>
+    <h3 align="left">Web Frontend</h3>
+    <ul>
+       
     </ul>
     <h3 align="left">Mobile Development</h3>
 <ul>
