@@ -30,7 +30,7 @@
         </li>
     </ul>
 <h3>📌 Work Experience</h3>
-
+<ul>
         <li>
              Designed and developed a full ERP system from scratch.
         </li>
