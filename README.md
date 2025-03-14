@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm AL Zami Arafat</h1>
     <p>
-      I'm AL Zami Arafat, a Senior Software Engineer specializing in backend and full-stack development. With 3+ years of experience, I've built scalable web applications, designed efficient database architectures, and developed enterprise-grade solutions. I have a strong background in Laravel, Node.js, React.js, and microservices architecture, along with expertise in CI/CD pipelines, payment gateway integration, and cloud server management. Passionate about writing clean, maintainable code and optimizing systems for performance and scalability. 🚀
+      I'm AL Zami Arafat, a Senior Software Engineer specializing in backend and full-stack development. With 4+ years of experience, I've built scalable web applications, designed efficient database architectures, and developed enterprise-grade solutions. I have a strong background in Laravel, Node.js, React.js, and microservices architecture, along with expertise in CI/CD pipelines, payment gateway integration, and cloud server management. Passionate about writing clean, maintainable code and optimizing systems for performance and scalability.
     </p>
     <h3 align="left">Web Development</h3>
     <ul>
