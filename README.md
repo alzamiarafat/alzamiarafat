@@ -6,49 +6,47 @@
     <ul>
         <li>
             <strong><span class="badge badge-primary">Expert in Backend Development:</span></strong>
-             Laravel, Node.js, Nest.js, PHP, JavaScrip
+             Laravel, Node.js, Nest.js, Express.js, PHP, JavaScript
         </li>
-    </ul>
-    <h3 align="left">Mobile Development</h3>
-<ul>
-    <li>
-        <strong>React Native</strong>
-    </li>
-</ul>
-    <h3 align="left">Database</h3>
-    <ul>
         <li>
-             <strong>MySQL</strong>,
-             <strong>MongoDB</strong>,
-             <strong>PostgreSQL</strong>,
-             <strong>SQL</strong>
+             <strong><span class="badge badge-primary">Frontend Technologies:</span></strong>
+             HTML, CSS, React.js, Tailwind CSS, Bootstrap, Material UI
         </li>
-    </ul>
-    <h3 align="left">SMS Integration</h3>
-    <ul>
         <li>
-             <strong>Boom cast</strong>,
-             <strong>Infobip</strong>
+             <strong><span class="badge badge-primary">Database Management:</span></strong>
+             MySQL, PostgreSQL, MongoDB, MSSQL
         </li>
-    </ul>
-    <h3 align="left">Payment Gateway Integration</h3>
-    <ul>
         <li>
-             <strong>Stripe</strong>,
-             <strong>PayPal</strong>,
-             <strong>SSL Commerz</strong>
+             <strong><span class="badge badge-primary">Microservices & Scalability:</span></strong>
+             Kafka, RESTful APIs, CI/CD Pipelines
         </li>
-    </ul>
-    <h3 align="left">Server</h3>
-    <ul>
+         <li>
+             <strong><span class="badge badge-primary">Payment & SMS Integration:</span></strong>
+             PayPal, Stripe, SSLCommerz, Cyber Source, Visa Card, Master Card, Bangladesh Bank API BoomCast, Infobip
+        </li>
         <li>
-             <strong>Namecheap</strong>,
-             <strong>CI/CD Pipeline</strong>,
-             <strong>Vultr</strong>,
-             <strong>Contabo</strong>
+             <strong><span class="badge badge-primary">Cloud & Server Management:</span></strong>
+             Docker, VPS, Nginx, Apache2, Vultr
         </li>
     </ul>
+<h3>📌 Work Experience</h3>
 
+        <li>
+             Designed and developed a full ERP system from scratch.
+        </li>
+        <li>
+            Integrated PayPal recurring payments, SMS gateways, and email services.
+        </li>
+        <li>
+            Developed secure banking APIs integrating Mastercard, Visa, and RTGS.
+        </li>
+        <li>
+             Built a microservices-based system using Kafka and Nest.js.
+        </li>
+         <li>
+             Managed CI/CD pipelines and automated deployments.
+        </li>
+    </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/al-zami-arafat-8871b8201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/al-zami-arafat-8871b8201/" height="30" width="40" /></a>
