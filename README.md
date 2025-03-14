@@ -26,7 +26,7 @@
         </li>
         <li>
              <strong><span class="badge badge-primary">Cloud & Server Management:</span></strong>
-             Docker, VPS, Nginx, Apache2, Vultr
+             Docker, VPS, Nginx, Apache2, Vultr, Namecheap, Contabo
         </li>
     </ul>
 <h3>📌 Work Experience</h3>
