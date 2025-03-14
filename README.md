@@ -2,17 +2,11 @@
     <p>
       I'm AL Zami Arafat, a Senior Software Engineer specializing in backend and full-stack development. With 4+ years of experience, I've built scalable web applications, designed efficient database architectures, and developed enterprise-grade solutions. I have a strong background in Laravel, Node.js, React.js, and microservices architecture, along with expertise in CI/CD pipelines, payment gateway integration, and cloud server management. Passionate about writing clean, maintainable code and optimizing systems for performance and scalability.
     </p>
-    <h3 align="left">Web Development</h3>
+    <h3>💡 Key Highlights</h3>
     <ul>
         <li>
-            <strong><span class="badge badge-primary">Laravel</span></strong>,
-            <strong>JQuery</strong>,
-            <strong>Node JS</strong>,
-            <strong>React JS</strong>,
-            <strong>Next JS</strong>,
-            <strong>HTML</strong>,
-            <strong>Bootstrap</strong>,
-            <strong>Material UI</strong>
+            <strong><span class="badge badge-primary">Expert in Backend Development:</span></strong>
+             Laravel, Node.js, Nest.js, PHP, JavaScrip
         </li>
     </ul>
     <h3 align="left">Mobile Development</h3>
