@@ -1,66 +1,64 @@
-<h1>Hi 👋, I'm AL Zami Arafat</h1>
-    <p>
-      I'm AL Zami Arafat, a Senior Software Engineer specializing in backend and full-stack development. With 4+ years of experience, I've built scalable web applications, designed efficient database architectures, and developed enterprise-grade solutions. I have a strong background in Laravel, Node.js, Nest js, React.js, and microservices architecture, along with expertise in CI/CD pipelines, payment gateway integration, and cloud server management. Passionate about writing clean, maintainable code and optimizing systems for performance and scalability.
-    </p>
-    <h3>💡 Key Highlights</h3>
-    <ul>
-        <li>
-            <strong><span class="badge badge-primary">Expert in Backend Development:</span></strong>
-             Laravel, Node.js, Nest.js, Express.js, PHP, JavaScript, TypeScript
-        </li>
-        <li>
-            <strong><span class="badge badge-primary">Architecture:</span></strong>
-             Microservices, Repository Pattern, Adapter Design Pattern, API Gateway, Event-Driven Systems
-        </li>
-        <li>
-             <strong><span class="badge badge-primary">Frontend Technologies:</span></strong>
-             HTML, CSS, React.js, Tailwind CSS, Bootstrap, Material UI
-        </li>
-        <li>
-             <strong><span class="badge badge-primary">Database Management:</span></strong>
-             MySQL, PostgreSQL, MongoDB, MSSQL
-        </li>
-        <li>
-             <strong><span class="badge badge-primary">Scalability:</span></strong>
-             Kafka, RESTful APIs, CI/CD Pipelines
-        </li>
-         <li>
-             <strong><span class="badge badge-primary">Payment & SMS Integration:</span></strong>
-             PayPal, Stripe, SSLCommerz, Cyber Source, Visa Card, Master Card, BoomCast, Infobip
-        </li>
-        <li>
-             <strong><span class="badge badge-primary">Cloud & Server Management:</span></strong>
-             Docker, VPS,CPanel, aaPanel, Nginx, Apache2, Vultr, Namecheap, Contabo
-        </li>
-    </ul>
-<h3>📌 Work Experience</h3>
-<ul>
-        <li>
-             Designed and developed a full ERP system from scratch.
-        </li>
-        <li>
-            Integrated PayPal recurring payments, SMS gateways, and email services.
-        </li>
-        <li>
-            Developed secure banking APIs integrating Mastercard, Visa, and RTGS.
-        </li>
-        <li>
-             Built a microservices-based system using Kafka and Nest.js.
-        </li>
-         <li>
-             Managed CI/CD pipelines and automated deployments.
-        </li>
-    </ul>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/al-zami-arafat-8871b8201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/al-zami-arafat-8871b8201/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aljami.arafat.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aljami.arafat.5" height="30" width="40" /></a>
-  <a href="https://github.com/https://github.com/alzamiarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/https://github.com/alzamiarafat" height="30" width="40" /></a>
-</p>
+# 👋 Hi, I'm [Your Name]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+🚀 **Backend Engineer | Fintech & Payments | Microservices Enthusiast**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alzamiarafat&show_icons=true&locale=en&layout=compact" alt="alzamiarafat" /></p>
+I specialize in building **scalable**, **secure**, and **high-performance** backend systems — with a strong focus on **financial platforms**, **digital payments**, and **API-driven architectures**.  
+Currently working on next-generation digital wallet and payment solutions at **ShebaPay**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alzamiarafat&show_icons=true&locale=en" alt="alzamiarafat" /></p>
+---
+
+## 🧩 Key Work Highlights
+
+- 🏗️ **Architected and implemented** a **microservices-based architecture** using **Kafka** and **Nest.js**, applying class-based development and the repository pattern for modularity and scalability.  
+- 🔐 **Designed and developed** secure, scalable **APIs** integrating multiple **banking and payment services** for real-time financial transactions.  
+- 🛡️ **Implemented an API Gateway** with authentication and authorization for both internal and third-party access.  
+- 💳 **Integrated Mastercard and Visa WebView payments** via **SEBL** and **BRAC Bank**, enabling seamless **card-to-wallet** transactions.  
+- 🧾 **Developed card-on-file solutions** using **CyberSource**, supporting **3DS 2.0**, **tokenization**, and **PCI-DSS-compliant recurring payments**.  
+- 🏦 **Built virtual account linking** for **RTGS-based bank-to-wallet transfers** with **MTB, MDB, PBL, DBBL, EBL,** and **UCB**.  
+- ⚡ **Integrated utility bill payments** for **BREB** and **BPDB** through **SSLCommerz**, expanding digital payment coverage.  
+- 🔄 **Developed card and MFS (Nagad) gateways** and **App-to-ShebaPay wallet transfers** for ecosystem interoperability.  
+- 💰 **Integrated interbank fund transfers** via **Account-to-Account, BFTN, NPSB,** and **QCash**, enhancing transaction reliability.  
+- ⚙️ **Built and maintained CI/CD pipelines** for automated testing, deployment, and monitoring using **GitHub Actions** and **Docker**.  
+- 🧑‍💻 **Led code reviews and mentorship**, promoting clean, efficient, and reusable code practices.  
+- 🌐 **Managed and optimized production environments** to ensure high availability, performance, and scalability.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+TypeScript · Node.js · Nest.js  
+
+**Messaging & Streaming:**  
+Apache Kafka  
+
+**Databases:**  
+PostgreSQL · MongoDB · Redis  
+
+**DevOps & CI/CD:**  
+Docker · Nginx · GitHub Actions  
+
+**Payments & Integrations:**  
+CyberSource · SSLCommerz · Mastercard · Visa · Nagad · RTGS · BFTN · NPSB · QCash  
+
+**Architecture & Design:**  
+Microservices · Repository Pattern · API Gateway · Event-Driven Systems  
+
+---
+
+## 🌱 What I’m Currently Exploring
+- Advanced **event-driven architectures** and **domain-driven design (DDD)**  
+- Cloud-native deployments with **Kubernetes**  
+- **Open Banking APIs** and fintech compliance standards  
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+- 💻 [GitHub](https://github.com/your-github-username)  
+- ✉️ [Email](mailto:yourname@email.com)  
+
+---
+
+⭐ _“Building the infrastructure that powers the next generation of digital payments.”_
