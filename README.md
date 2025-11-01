@@ -26,4 +26,28 @@
 - 𝓑𝓾𝓲𝓵𝓽 𝓢𝓔𝓒𝓤𝓡𝓔 𝓡𝓔𝓢𝓣𝓕𝓤𝓛 𝓐𝓟𝓘𝓼 𝓯𝓸𝓻 𝓗𝓲𝓰𝓱-𝓽𝓻𝓪𝓯𝓯𝓲𝓬 𝓦𝓮𝓫 & 𝓕𝓲𝓷𝓽𝓮𝓬𝓱 𝓢𝔂𝓼𝓽𝓮𝓶𝓼.  
 - 𝓘𝓷𝓽𝓮𝓰𝓻𝓪𝓽𝓮𝓭 𝓟𝓪𝔂𝓶𝓮𝓷𝓽 𝓖𝓪𝓽𝓮𝔀𝓪𝔂𝓼 𝓲𝓷𝓬𝓵𝓾𝓭𝓲𝓷𝓰 𝓟𝓪𝔂𝓟𝓪𝓵, 𝓢𝓽𝓻𝓲𝓹𝓮, 𝓥𝓲𝓼𝓪, 𝓜𝓪𝓼𝓽𝓮𝓻𝓬𝓪𝓻𝓭, 𝓢𝓢𝓛𝓒𝓸𝓶𝓶𝓮𝓻𝔃, 𝓒𝔂𝓫𝓮𝓻𝓢𝓸𝓾𝓻𝓬𝓮.  
 - 𝓑𝓾𝓲𝓵𝓽 𝓒𝓘/𝓒𝓓 𝓟𝓲𝓹𝓮𝓵𝓲𝓷𝓮𝓼 𝓯𝓸𝓻 𝓐𝓾𝓽𝓸𝓶𝓪𝓽𝓮𝓭 𝓓𝓮𝓹𝓵𝓸𝔂𝓶𝓮𝓷𝓽 𝓪𝓷𝓭 𝓜𝓸𝓷𝓲𝓽𝓸𝓻𝓲𝓷𝓰.  
-- 𝓞𝓹𝓽𝓲𝓶𝓲𝔃𝓮𝓭 𝓑𝓪𝓬𝓴𝓮𝓷𝓭
+- 𝓞𝓹𝓽𝓲𝓶𝓲𝔃𝓮𝓭 𝓑𝓪𝓬𝓴𝓮𝓷𝓭 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓽𝓸 𝓗𝓪𝓷𝓭𝓵𝓮 𝓜𝓲𝓵𝓵𝓲𝓸𝓷𝓼 𝓸𝓯 𝓒𝓸𝓷𝓬𝓾𝓻𝓻𝓮𝓷𝓽 𝓓𝓪𝓽𝓪 𝓢𝓽𝓻𝓮𝓪𝓶𝓼.  
+- 𝓜𝓮𝓷𝓽𝓸𝓻𝓮𝓭 𝓣𝓮𝓪𝓶 𝓶𝓮𝓶𝓫𝓮𝓻𝓼 𝓪𝓷𝓭 𝓔𝓷𝓯𝓸𝓻𝓬𝓮𝓭 𝓒𝓸𝓭𝓮 𝓑𝓮𝓼𝓽 𝓟𝓻𝓪𝓬𝓽𝓲𝓬𝓮𝓼.  
+
+---
+
+## 🌐 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AL-Zami-Arafat&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Zami-Arafat&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Zami-Arafat&theme=radical" alt="GitHub Streak" width="800" height="165"/>
+</p>
+
+---
+
+## 📫 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓜𝓮
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/al-zami-arafat)  
+- 💻 [GitHub](https://github.com/AL-Zami-Arafat)  
+- ✉️ [Email](mailto:alzamiarafat@gmail.com)  
+
+⭐ _“𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓽𝓱𝓮 𝓲𝓷𝓯𝓻𝓪𝓼𝓽𝓻𝓾𝓬𝓽𝓾𝓻𝓮 𝓽𝓱𝓪𝓽 𝓹𝓸𝔀𝓮𝓻𝓼 𝓽𝓱𝓮 𝓷𝓮𝔁𝓽 𝓰𝓮𝓷𝓮𝓻𝓪𝓽𝓲𝓸𝓷 𝓸𝓯 𝓭𝓲𝓰𝓲𝓽𝓪𝓵 𝓹𝓪𝔂𝓶𝓮𝓷𝓽𝓼 𝓪𝓷𝓭 𝓮𝓷𝓽𝓮𝓻𝓹𝓻𝓲𝓼𝓮 𝓼𝔂𝓼𝓽𝓮𝓶𝓼.”_
