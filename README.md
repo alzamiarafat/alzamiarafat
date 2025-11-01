@@ -1,112 +1,29 @@
-# 👋 Hi, I'm AL Zami Arafat  
+# 👋 𝓗𝓲, 𝓘'𝓶 𝓐𝓛 𝓩𝓪𝓶𝓲 𝓐𝓻𝓪𝓯𝓪𝓽  
 
-🚀 **Senior Software Engineer | Backend & Full-Stack Developer | Fintech & ERP Specialist**
+🚀 **𝓢𝓮𝓷𝓲𝓸𝓻 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 | 𝓑𝓪𝓬𝓴𝓮𝓷𝓭 & 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 | 𝓕𝓲𝓷𝓽𝓮𝓬𝓱 & 𝓔𝓡𝓟 𝓢𝓹𝓮𝓬𝓲𝓪𝓵𝓲𝓼𝓽**
 
-<p>
-     With over <strong>4+ years of experience</strong>, I design and develop <strong>scalable, secure, and high-performance software solutions</strong>. My expertise spans <strong>backend architecture, API design, microservices, cloud infrastructure, and payment systems</strong>. I’m passionate about crafting <strong>clean, maintainable code</strong> and optimizing systems for <strong>efficiency, reliability, and scalability</strong>.
-</p>
+𝓦𝓲𝓽𝓱 𝓸𝓿𝓮𝓻 **4+ 𝔂𝓮𝓪𝓻𝓼 𝓸𝓯 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮**, 𝓘 𝓭𝓮𝓼𝓲𝓰𝓷 𝓪𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹 **𝓼𝓬𝓪𝓵𝓪𝓫𝓵𝓮, 𝓼𝓮𝓬𝓾𝓻𝓮, 𝓪𝓷𝓭 𝓱𝓲𝓰𝓱-𝓹𝓮𝓻𝓯𝓸𝓻𝓶𝓪𝓷𝓬𝓮 𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓼𝓸𝓵𝓾𝓽𝓲𝓸𝓷𝓼**. 𝓜𝔂 𝔀𝓸𝓻𝓴 𝓼𝓹𝓪𝓷𝓼 **𝓫𝓪𝓬𝓴𝓮𝓷𝓭 𝓪𝓻𝓬𝓱𝓲𝓽𝓮𝓬𝓽𝓾𝓻𝓮, 𝓐𝓟𝓘 𝓭𝓮𝓼𝓲𝓰𝓷, 𝓶𝓲𝓬𝓻𝓸𝓼𝓮𝓻𝓿𝓲𝓬𝓮𝓼, 𝓬𝓵𝓸𝓾𝓭 𝓲𝓷𝓯𝓻𝓪𝓼𝓽𝓻𝓾𝓬𝓽𝓾𝓻𝓮, 𝓪𝓷𝓭 𝓹𝓪𝔂𝓶𝓮𝓷𝓽 𝓼𝔂𝓼𝓽𝓮𝓶𝓼**.  
 
----
-
-## 🧠 About Me
-
-- 💻 Experienced in **backend and full-stack development** with deep expertise in **Laravel**, **Node.js**, **Nest.js**, and **React.js**.  
-- 🏗️ Specialized in **microservices architecture**, **API Gateway design**, and **event-driven systems** using **Kafka**.  
-- 🔐 Skilled in integrating **secure payment systems** and **financial APIs** (Visa, Mastercard, CyberSource, PayPal, SSLCommerz, etc.).  
-- ⚙️ Proficient in building **CI/CD pipelines**, **automated deployments**, and **cloud-managed infrastructures** for modern applications.  
-- 🌐 Strong background in **ERP**, **Fintech**, and **B2C systems**, delivering reliable, high-traffic, enterprise-grade platforms.
+𝓘 𝓪𝓶 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓪𝓫𝓸𝓾𝓽 𝔀𝓻𝓲𝓽𝓲𝓷𝓰 **𝓬𝓵𝓮𝓪𝓷, 𝓶𝓪𝓲𝓷𝓽𝓪𝓲𝓷𝓪𝓫𝓵𝓮 𝓬𝓸𝓭𝓮** 𝓪𝓷𝓭 𝓬𝓸𝓷𝓽𝓲𝓷𝓾𝓸𝓾𝓼𝓵𝔂 𝓸𝓹𝓽𝓲𝓶𝓲𝔃𝓮 𝓼𝔂𝓼𝓽𝓮𝓶𝓼 𝓯𝓸𝓻 **𝓮𝓯𝓯𝓲𝓬𝓲𝓮𝓷𝓬𝔂, 𝓻𝓮𝓵𝓲𝓪𝓫𝓲𝓵𝓲𝓽𝔂, 𝓪𝓷𝓭 𝓼𝓬𝓪𝓵𝓪𝓫𝓲𝓵𝓲𝓽𝔂**.  
 
 ---
 
-## 💡 Key Highlights
+## 💡 𝓚𝓮𝔂 𝓗𝓲𝓰𝓱𝓵𝓲𝓰𝓱𝓽𝓼
 
-- **Backend Development:** Laravel · Node.js · Nest.js · Express.js · PHP · JavaScript · TypeScript  
-- **Architecture & Design:** Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-Driven Systems  
-- **Frontend Development:** React.js · HTML · CSS · Tailwind CSS · Bootstrap · Material UI  
-- **Databases:** MySQL · PostgreSQL · MongoDB · MSSQL  
-- **DevOps & Infrastructure:** Docker · Nginx · Apache2 · GitHub Actions · CI/CD Pipelines  
-- **Payments & Messaging:** PayPal · Stripe · SSLCommerz · CyberSource · Visa · Mastercard · BoomCast · Infobip  
-- **Cloud & Server Management:** VPS · cPanel · aaPanel · Vultr · Namecheap · Contabo  
-- **Scalability Tools:** Kafka · RESTful APIs · Redis · Load Balancing  
-
----
-
-## 🏆 Professional Experience Highlights
-
-- 🧩 **Designed and developed a full ERP system from scratch**, including modules for **inventory, procurement, accounting, and user management**, improving efficiency and scalability.  
-- 🔧 **Developed and optimized RESTful APIs** using **Laravel**, **Node.js**, and **Nest.js**, following **microservices principles** for modular and maintainable backend systems.  
-- 🧠 **Built scalable architectures** leveraging **Kafka**, handling millions of concurrent data streams with improved system performance and reduced latency.  
-- ⚙️ **Implemented CI/CD pipelines** using **GitHub Actions** and **Docker**, automating testing, deployment, and monitoring for reliable software delivery.  
-- 💳 **Integrated multiple payment gateways** including **PayPal**, **Stripe**, **Visa**, **Mastercard**, **SSLCommerz**, and **CyberSource**, enabling secure online and recurring transactions.  
-- 🧾 **Automated invoicing, promo code management, and billing systems**, streamlining business operations and improving customer experience.  
-- 📦 **Developed advanced inventory management features** in ERP systems, ensuring efficient stock tracking, order management, and reporting.  
-- 📱 **Built responsive web applications** using **React.js**, **Material UI**, and **Bootstrap**, ensuring seamless UX across devices.  
-- 🧑‍💻 **Developed CMS-based backends** for API-driven platforms, enabling dynamic content management and integration with mobile and web clients.  
-- 🔐 **Implemented secure authentication and authorization mechanisms**, including **multi-factor authentication** and **token-based access control**.  
-- 📡 **Integrated SMS and email communication services** using **SMTP**, **IMAP**, **Kafka**, and **Infobip**, ensuring high-throughput, real-time message delivery.  
-- ⚡ **Performed live database migrations** in production environments with minimal downtime, ensuring seamless version upgrades and data integrity.  
-- 🧪 **Wrote comprehensive unit tests** and mock integrations to ensure system reliability, maintainability, and long-term stability.  
-- 🧰 **Optimized backend systems** for performance and scalability, achieving significant reductions in response times and system load.  
-- 🤝 **Mentored team members** and conducted **code reviews**, fostering a culture of clean code, efficiency, and architectural discipline.  
+- **Backend Development:** 𝓛𝓪𝓻𝓪𝓿𝓮𝓵 · 𝓝𝓸𝓭𝓮.𝓳𝓼 · 𝓝𝓮𝓼𝓽.𝓳𝓼 · 𝓔𝔁𝓹𝓻𝓮𝓼𝓼.𝓳𝓼 · 𝓟𝓗𝓟 · 𝓙𝓪𝓿𝓪𝓢𝓬𝓻𝓲𝓹𝓽 · 𝓣𝔂𝓹𝓮𝓢𝓬𝓻𝓲𝓹𝓽  
+- **Architecture & Design:** 𝓜𝓲𝓬𝓻𝓸𝓼𝓮𝓻𝓿𝓲𝓬𝓮𝓼 · 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝔂 𝓟𝓪𝓽𝓽𝓮𝓻𝓷 · 𝓐𝓭𝓪𝓹𝓽𝓮𝓻 𝓟𝓪𝓽𝓽𝓮𝓻𝓷 · 𝓐𝓟𝓘 𝓖𝓪𝓽𝓮𝔀𝓪𝔂 · 𝓔𝓿𝓮𝓷𝓽-𝓓𝓻𝓲𝓿𝓮𝓷 𝓢𝔂𝓼𝓽𝓮𝓶𝓼  
+- **Frontend Development:** 𝓡𝓮𝓪𝓬𝓽.𝓳𝓼 · 𝓗𝓣𝓜𝓛 · 𝓒𝓢𝓢 · 𝓣𝓪𝓲𝓵𝔀𝓲𝓷𝓭 𝓒𝓢𝓢 · 𝓑𝓸𝓸𝓽𝓼𝓽𝓻𝓪𝓹 · 𝓜𝓪𝓽𝓮𝓻𝓲𝓪𝓵 𝓤𝓘  
+- **Databases:** 𝓜𝔂𝓢𝓠𝓛 · 𝓟𝓸𝓼𝓽𝓰𝓻𝓮𝓢𝓠𝓛 · 𝓜𝓸𝓷𝓰𝓸𝓓𝓑 · 𝓜𝓢𝓢𝓠𝓛  
+- **DevOps & Infrastructure:** 𝓓𝓸𝓬𝓴𝓮𝓻 · 𝓝𝓰𝓲𝓷𝔁 · 𝓐𝓹𝓪𝓬𝓱𝓮2 · 𝓖𝓲𝓽𝓗𝓾𝓫 𝓐𝓬𝓽𝓲𝓸𝓷𝓼 · 𝓒𝓘/𝓒𝓓 𝓟𝓲𝓹𝓮𝓵𝓲𝓷𝓮𝓼  
+- **Payments & Messaging:** 𝓟𝓪𝔂𝓟𝓪𝓵 · 𝓢𝓽𝓻𝓲𝓹𝓮 · 𝓢𝓢𝓛𝓒𝓸𝓶𝓶𝓮𝓻𝔃 · 𝓒𝔂𝓫𝓮𝓻𝓢𝓸𝓾𝓻𝓬𝓮 · 𝓥𝓲𝓼𝓪 · 𝓜𝓪𝓼𝓽𝓮𝓻𝓬𝓪𝓻𝓭 · 𝓝𝓪𝓰𝓪𝓭 · 𝓑𝓸𝓸𝓶𝓒𝓪𝓼𝓽 · 𝓘𝓷𝓯𝓸𝓫𝓲𝓹  
+- **Scalability Tools:** 𝓚𝓪𝓯𝓴𝓪 · 𝓡𝓮𝓼𝓽𝓯𝓾𝓵 𝓐𝓟𝓘𝓼 · 𝓡𝓮𝓭𝓲𝓼  
 
 ---
 
-## 🧰 Tech Stack Overview
+## 🏆 𝓔𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮 𝓗𝓲𝓰𝓱𝓵𝓲𝓰𝓱𝓽𝓼
 
-**Languages & Frameworks:**  
-TypeScript · JavaScript · PHP · Laravel · Node.js · Nest.js · Express.js · React.js  
-
-**Databases:**  
-MySQL · PostgreSQL · MongoDB · MSSQL  
-
-**Infrastructure & Tools:**  
-Docker · GitHub Actions · Nginx · Apache2 · Vultr · Contabo · cPanel · aaPanel  
-
-**Messaging & Streaming:**  
-Apache Kafka  
-
-**Integrations & APIs:**  
-PayPal · Stripe · SSLCommerz · CyberSource · Visa · Mastercard · Nagad · BoomCast · Infobip  
-
-**Architecture Patterns:**  
-Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-Driven Systems  
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/al-zami-arafat)  
-- 💻 [GitHub](https://github.com/alzamiarafat)  
-- ✉️ [Email](mailto:alzamiarafat00@gmail.com)  
-
----
-
-## 🏅 Tech Badges
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AL-Zami-Arafat&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Zami-Arafat&layout=compact&theme=radical" height="165" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Zami-Arafat&theme=radical" alt="GitHub Streak" width="1000" height="165"/>
-</p>
-
-
----
-
-⭐ _“Building the infrastructure that powers the next generation of digital payments and enterprise systems.”_
+- 𝓓𝓮𝓼𝓲𝓰𝓷𝓮𝓭 & 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓯𝓾𝓵𝓵 𝓔𝓡𝓟 𝓼𝔂𝓼𝓽𝓮𝓶𝓼 𝓲𝓷𝓬𝓵𝓾𝓭𝓲𝓷𝓰 𝓲𝓷𝓿𝓮𝓷𝓽𝓸𝓻𝔂, 𝓹𝓻𝓸𝓬𝓾𝓻𝓮𝓶𝓮𝓷𝓽, 𝓪𝓬𝓬𝓸𝓾𝓷𝓽𝓲𝓷𝓰, 𝓪𝓷𝓭 𝓾𝓼𝓮𝓻 𝓶𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽.  
+- 𝓑𝓾𝓲𝓵𝓽 𝓢𝓔𝓒𝓤𝓡𝓔 𝓡𝓔𝓢𝓣𝓕𝓤𝓛 𝓐𝓟𝓘𝓼 𝓯𝓸𝓻 𝓗𝓲𝓰𝓱-𝓽𝓻𝓪𝓯𝓯𝓲𝓬 𝓦𝓮𝓫 & 𝓕𝓲𝓷𝓽𝓮𝓬𝓱 𝓢𝔂𝓼𝓽𝓮𝓶𝓼.  
+- 𝓘𝓷𝓽𝓮𝓰𝓻𝓪𝓽𝓮𝓭 𝓟𝓪𝔂𝓶𝓮𝓷𝓽 𝓖𝓪𝓽𝓮𝔀𝓪𝔂𝓼 𝓲𝓷𝓬𝓵𝓾𝓭𝓲𝓷𝓰 𝓟𝓪𝔂𝓟𝓪𝓵, 𝓢𝓽𝓻𝓲𝓹𝓮, 𝓥𝓲𝓼𝓪, 𝓜𝓪𝓼𝓽𝓮𝓻𝓬𝓪𝓻𝓭, 𝓢𝓢𝓛𝓒𝓸𝓶𝓶𝓮𝓻𝔃, 𝓒𝔂𝓫𝓮𝓻𝓢𝓸𝓾𝓻𝓬𝓮.  
+- 𝓑𝓾𝓲𝓵𝓽 𝓒𝓘/𝓒𝓓 𝓟𝓲𝓹𝓮𝓵𝓲𝓷𝓮𝓼 𝓯𝓸𝓻 𝓐𝓾𝓽𝓸𝓶𝓪𝓽𝓮𝓭 𝓓𝓮𝓹𝓵𝓸𝔂𝓶𝓮𝓷𝓽 𝓪𝓷𝓭 𝓜𝓸𝓷𝓲𝓽𝓸𝓻𝓲𝓷𝓰.  
+- 𝓞𝓹𝓽𝓲𝓶𝓲𝔃𝓮𝓭 𝓑𝓪𝓬𝓴𝓮𝓷𝓭
