@@ -73,20 +73,11 @@ Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-D
 
 ---
 
-## 🌱 Currently Exploring
+## 📫 Connect with Me
 
-- Domain-Driven Design (**DDD**)  
-- Cloud-native microservices with **Kubernetes**  
-- **Open Banking APIs** and fintech compliance standards  
-- Advanced event-driven architecture and **CQRS patterns**  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AL-Zami-Arafat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Zami-Arafat&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AL-Zami-Arafat&theme=radical)
+- 💼 [LinkedIn](https://www.linkedin.com/in/al-zami-arafat)  
+- 💻 [GitHub](https://github.com/AL-Zami-Arafat)  
+- ✉️ [Email](mailto:alzamiarafat@gmail.com)  
 
 ---
 
@@ -103,13 +94,12 @@ Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-D
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
----
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/al-zami-arafat)  
-- 💻 [GitHub](https://github.com/AL-Zami-Arafat)  
-- ✉️ [Email](mailto:alzamiarafat@gmail.com)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AL-Zami-Arafat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Zami-Arafat&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AL-Zami-Arafat&theme=radical)
 
 ---
 
