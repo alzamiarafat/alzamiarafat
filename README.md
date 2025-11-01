@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm AL Zami Arafat</h1>
     <p>
-      I'm AL Zami Arafat, a Senior Software Engineer specializing in backend and full-stack development. With 4+ years of experience, I've built scalable web applications, designed efficient database architectures, and developed enterprise-grade solutions. I have a strong background in Laravel, Node.js, React.js, and microservices architecture, along with expertise in CI/CD pipelines, payment gateway integration, and cloud server management. Passionate about writing clean, maintainable code and optimizing systems for performance and scalability.
+      I'm AL Zami Arafat, a Senior Software Engineer specializing in backend and full-stack development. With 4+ years of experience, I've built scalable web applications, designed efficient database architectures, and developed enterprise-grade solutions. I have a strong background in Laravel, Node.js, Nest js, React.js, and microservices architecture, along with expertise in CI/CD pipelines, payment gateway integration, and cloud server management. Passionate about writing clean, maintainable code and optimizing systems for performance and scalability.
     </p>
     <h3>💡 Key Highlights</h3>
     <ul>
         <li>
             <strong><span class="badge badge-primary">Expert in Backend Development:</span></strong>
-             Laravel, Node.js, Nest.js, Express.js, PHP, JavaScript
+             Laravel, Node.js, Nest.js, Express.js, PHP, JavaScript, TypeScript
         </li>
         <li>
              <strong><span class="badge badge-primary">Frontend Technologies:</span></strong>
@@ -22,7 +22,7 @@
         </li>
          <li>
              <strong><span class="badge badge-primary">Payment & SMS Integration:</span></strong>
-             PayPal, Stripe, SSLCommerz, Cyber Source, Visa Card, Master Card, Bangladesh Bank API BoomCast, Infobip
+             PayPal, Stripe, SSLCommerz, Cyber Source, Visa Card, Master Card, BoomCast, Infobip
         </li>
         <li>
              <strong><span class="badge badge-primary">Cloud & Server Management:</span></strong>
