@@ -103,7 +103,7 @@ Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-D
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Zami-Arafat&theme=radical" alt="GitHub Streak" height="190"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Zami-Arafat&theme=radical" alt="GitHub Streak" width="800" height="165"/>
 </p>
 
 
