@@ -97,15 +97,15 @@ Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-D
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AL-Zami-Arafat&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Zami-Arafat&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Zami-Arafat&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Zami-Arafat&theme=radical" alt="GitHub Streak" height="190"/>
 </p>
+
 
 ---
 
