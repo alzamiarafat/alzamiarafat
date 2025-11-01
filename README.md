@@ -76,8 +76,8 @@ Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-D
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/al-zami-arafat)  
-- 💻 [GitHub](https://github.com/AL-Zami-Arafat)  
-- ✉️ [Email](mailto:alzamiarafat@gmail.com)  
+- 💻 [GitHub](https://github.com/alzamiarafat)  
+- ✉️ [Email](mailto:alzamiarafat00@gmail.com)  
 
 ---
 
