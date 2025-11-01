@@ -3,9 +3,7 @@
 🚀 **Senior Software Engineer | Backend & Full-Stack Developer | Fintech & ERP Specialist**
 
 <p>
-     With over **4+ years of experience**, I design and develop **scalable, secure, and high-performance software solutions**.  
-     My expertise spans **backend architecture, API design, microservices, cloud infrastructure, and payment systems**.  
-     I’m passionate about crafting **clean, maintainable code** and optimizing systems for **efficiency, reliability, and scalability**.
+     With over <strong>4+ years of experience</strong>, I design and develop <strong>scalable, secure, and high-performance software solutions</strong>. My expertise spans <strong>backend architecture, API design, microservices, cloud infrastructure, and payment systems</strong>. I’m passionate about crafting <strong>clean, maintainable code</strong> and optimizing systems for <strong>efficiency, reliability, and scalability</strong>.
 </p>
 
 ---
