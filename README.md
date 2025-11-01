@@ -33,21 +33,21 @@
 
 ## 🏆 Professional Experience Highlights
 
-- 🧩 **Designed and developed a full ERP system from scratch**, including modules for **inventory, procurement, accounting, and user management**, improving efficiency and scalability.  
-- 🔧 **Developed and optimized RESTful APIs** using **Laravel**, **Node.js**, and **Nest.js**, following **microservices principles** for modular and maintainable backend systems.  
-- 🧠 **Built scalable architectures** leveraging **Kafka**, handling millions of concurrent data streams with improved system performance and reduced latency.  
-- ⚙️ **Implemented CI/CD pipelines** using **GitHub Actions** and **Docker**, automating testing, deployment, and monitoring for reliable software delivery.  
-- 💳 **Integrated multiple payment gateways** including **PayPal**, **Stripe**, **Visa**, **Mastercard**, **SSLCommerz**, and **CyberSource**, enabling secure online and recurring transactions.  
-- 🧾 **Automated invoicing, promo code management, and billing systems**, streamlining business operations and improving customer experience.  
-- 📦 **Developed advanced inventory management features** in ERP systems, ensuring efficient stock tracking, order management, and reporting.  
-- 📱 **Built responsive web applications** using **React.js**, **Material UI**, and **Bootstrap**, ensuring seamless UX across devices.  
-- 🧑‍💻 **Developed CMS-based backends** for API-driven platforms, enabling dynamic content management and integration with mobile and web clients.  
-- 🔐 **Implemented secure authentication and authorization mechanisms**, including **multi-factor authentication** and **token-based access control**.  
-- 📡 **Integrated SMS and email communication services** using **SMTP**, **IMAP**, **Kafka**, and **Infobip**, ensuring high-throughput, real-time message delivery.  
-- ⚡ **Performed live database migrations** in production environments with minimal downtime, ensuring seamless version upgrades and data integrity.  
-- 🧪 **Wrote comprehensive unit tests** and mock integrations to ensure system reliability, maintainability, and long-term stability.  
-- 🧰 **Optimized backend systems** for performance and scalability, achieving significant reductions in response times and system load.  
-- 🤝 **Mentored team members** and conducted **code reviews**, fostering a culture of clean code, efficiency, and architectural discipline.  
+- **Designed and developed a full ERP system from scratch**, including modules for **inventory, procurement, accounting, and user management**, improving efficiency and scalability.  
+- **Developed and optimized RESTful APIs** using **Laravel**, **Node.js**, and **Nest.js**, following **microservices principles** for modular and maintainable backend systems.  
+- **Built scalable architectures** leveraging **Kafka**, handling millions of concurrent data streams with improved system performance and reduced latency.  
+- **Implemented CI/CD pipelines** using **GitHub Actions** and **Docker**, automating testing, deployment, and monitoring for reliable software delivery.  
+- **Integrated multiple payment gateways** including **PayPal**, **Stripe**, **Visa**, **Mastercard**, **SSLCommerz**, and **CyberSource**, enabling secure online and recurring transactions.  
+- **Automated invoicing, promo code management, and billing systems**, streamlining business operations and improving customer experience.  
+- **Developed advanced inventory management features** in ERP systems, ensuring efficient stock tracking, order management, and reporting.  
+- **Built responsive web applications** using **React.js**, **Material UI**, and **Bootstrap**, ensuring seamless UX across devices.  
+-  **Developed CMS-based backends** for API-driven platforms, enabling dynamic content management and integration with mobile and web clients.  
+- **Implemented secure authentication and authorization mechanisms**, including **multi-factor authentication** and **token-based access control**.  
+- **Integrated SMS and email communication services** using **SMTP**, **IMAP**, **Kafka**, and **Infobip**, ensuring high-throughput, real-time message delivery.  
+- **Performed live database migrations** in production environments with minimal downtime, ensuring seamless version upgrades and data integrity.  
+- **Wrote comprehensive unit tests** and mock integrations to ensure system reliability, maintainability, and long-term stability.  
+- **Optimized backend systems** for performance and scalability, achieving significant reductions in response times and system load.  
+- **Mentored team members** and conducted **code reviews**, fostering a culture of clean code, efficiency, and architectural discipline.  
 
 ---
 
