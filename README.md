@@ -1,53 +1,53 @@
 # 👋 Hi, I'm AL Zami Arafat  
 
-🚀 **Senior Software Engineer | Backend & Full-Stack Developer | Fintech Systems Architect**
+🚀 **Senior Software Engineer | Backend & Full-Stack Developer | Fintech & ERP Specialist**
 
-With over **4+ years of experience**, I specialize in building **scalable web applications**, **designing efficient database architectures**, and **developing enterprise-grade fintech and payment solutions**.  
-I’m passionate about writing **clean, maintainable code** and optimizing systems for **performance**, **security**, and **scalability**.
+With over **4+ years of experience**, I design and develop **scalable, secure, and high-performance software solutions**.  
+My expertise spans **backend architecture, API design, microservices, cloud infrastructure, and payment systems**.  
+I’m passionate about crafting **clean, maintainable code** and optimizing systems for **efficiency, reliability, and scalability**.
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Experienced in **backend and full-stack development** with a focus on **fintech, payments, and ERP systems**.  
-- 🏗️ Architected **microservices-based platforms** using **Kafka**, **Nest.js**, and **Node.js** for modular and event-driven systems.  
-- 🔐 Integrated **secure banking APIs** and **payment gateways** (Mastercard, Visa, CyberSource, SSLCommerz, etc.).  
-- ⚙️ Built and managed **CI/CD pipelines**, **automated deployments**, and **cloud-based environments**.  
-- 🌐 Passionate about **system design**, **DevOps automation**, and **clean software architecture**.
+- 💻 Experienced in **backend and full-stack development** with deep expertise in **Laravel**, **Node.js**, **Nest.js**, and **React.js**.  
+- 🏗️ Specialized in **microservices architecture**, **API Gateway design**, and **event-driven systems** using **Kafka**.  
+- 🔐 Skilled in integrating **secure payment systems** and **financial APIs** (Visa, Mastercard, CyberSource, PayPal, SSLCommerz, etc.).  
+- ⚙️ Proficient in building **CI/CD pipelines**, **automated deployments**, and **cloud-managed infrastructures** for modern applications.  
+- 🌐 Strong background in **ERP**, **Fintech**, and **B2C systems**, delivering reliable, high-traffic, enterprise-grade platforms.
 
 ---
 
 ## 💡 Key Highlights
 
-- **Backend Expertise:** Laravel · Node.js · Nest.js · Express.js · PHP · JavaScript · TypeScript  
-- **Architecture:** Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-Driven Systems  
+- **Backend Development:** Laravel · Node.js · Nest.js · Express.js · PHP · JavaScript · TypeScript  
+- **Architecture & Design:** Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-Driven Systems  
 - **Frontend Development:** React.js · HTML · CSS · Tailwind CSS · Bootstrap · Material UI  
 - **Databases:** MySQL · PostgreSQL · MongoDB · MSSQL  
-- **Scalability & DevOps:** Kafka · RESTful APIs · CI/CD Pipelines  
-- **Payment & Messaging Integration:** PayPal · Stripe · SSLCommerz · CyberSource · Visa · Mastercard · BoomCast · Infobip  
-- **Cloud & Server Management:** Docker · VPS · cPanel · aaPanel · Nginx · Apache2 · Vultr · Namecheap · Contabo  
+- **DevOps & Infrastructure:** Docker · Nginx · Apache2 · GitHub Actions · CI/CD Pipelines  
+- **Payments & Messaging:** PayPal · Stripe · SSLCommerz · CyberSource · Visa · Mastercard · BoomCast · Infobip  
+- **Cloud & Server Management:** VPS · cPanel · aaPanel · Vultr · Namecheap · Contabo  
+- **Scalability Tools:** Kafka · RESTful APIs · Redis · Load Balancing  
 
 ---
 
-## 🏢 Professional Experience & Key Projects
+## 🏆 Professional Experience Highlights
 
-### 🔹 **ShebaPay — Fintech Platform**
-- Architected and implemented a **microservices-based architecture** using **Kafka** and **Nest.js**, ensuring modularity and scalability.  
-- Designed and developed **secure, scalable APIs** integrating multiple **banking and payment services** for real-time transactions.  
-- Implemented a **custom API Gateway** with **authentication and authorization** for both third-party and internal communication.  
-- Integrated **Mastercard and Visa WebView payments** via **SEBL** and **BRAC Bank**, enabling seamless **card-to-wallet** transactions.  
-- Developed **card-on-file payment solutions** using **CyberSource** with **3DS 2.0**, **tokenization**, and **PCI-DSS–compliant recurring transactions**.  
-- Built **virtual account linking** for **RTGS-based bank-to-wallet transfers** in collaboration with **MTB, MDB, PBL, DBBL, EBL, and UCB**.  
-- Integrated **utility bill payment systems** (BREB & BPDB) via **SSLCommerz**, expanding digital payment coverage.  
-- Developed **MFS (Nagad)** and **App-to-ShebaPay wallet transfers**, improving ecosystem interoperability.  
-- Integrated **interbank fund transfers** via **Account-to-Account**, **BFTN**, **NPSB**, and **QCash** for greater transaction reliability.  
-- Built and maintained **CI/CD pipelines** for automated testing, deployment, and monitoring.  
-- Conducted **code reviews** and provided **technical mentorship** to junior developers.  
-
-### 🔹 **ERP System Development**
-- Designed and developed a **full ERP system from scratch**, covering user management, accounting, billing, and analytics modules.  
-- Integrated **PayPal recurring payments**, **SMS gateways**, and **email services** for a complete enterprise solution.  
-- Managed **CI/CD pipelines** and deployment automation for high availability and consistent delivery.  
+- 🧩 **Designed and developed a full ERP system from scratch**, including modules for **inventory, procurement, accounting, and user management**, improving efficiency and scalability.  
+- 🔧 **Developed and optimized RESTful APIs** using **Laravel**, **Node.js**, and **Nest.js**, following **microservices principles** for modular and maintainable backend systems.  
+- 🧠 **Built scalable architectures** leveraging **Kafka**, handling millions of concurrent data streams with improved system performance and reduced latency.  
+- ⚙️ **Implemented CI/CD pipelines** using **GitHub Actions** and **Docker**, automating testing, deployment, and monitoring for reliable software delivery.  
+- 💳 **Integrated multiple payment gateways** including **PayPal**, **Stripe**, **Visa**, **Mastercard**, **SSLCommerz**, and **CyberSource**, enabling secure online and recurring transactions.  
+- 🧾 **Automated invoicing, promo code management, and billing systems**, streamlining business operations and improving customer experience.  
+- 📦 **Developed advanced inventory management features** in ERP systems, ensuring efficient stock tracking, order management, and reporting.  
+- 📱 **Built responsive web applications** using **React.js**, **Material UI**, and **Bootstrap**, ensuring seamless UX across devices.  
+- 🧑‍💻 **Developed CMS-based backends** for API-driven platforms, enabling dynamic content management and integration with mobile and web clients.  
+- 🔐 **Implemented secure authentication and authorization mechanisms**, including **multi-factor authentication** and **token-based access control**.  
+- 📡 **Integrated SMS and email communication services** using **SMTP**, **IMAP**, **Kafka**, and **Infobip**, ensuring high-throughput, real-time message delivery.  
+- ⚡ **Performed live database migrations** in production environments with minimal downtime, ensuring seamless version upgrades and data integrity.  
+- 🧪 **Wrote comprehensive unit tests** and mock integrations to ensure system reliability, maintainability, and long-term stability.  
+- 🧰 **Optimized backend systems** for performance and scalability, achieving significant reductions in response times and system load.  
+- 🤝 **Mentored team members** and conducted **code reviews**, fostering a culture of clean code, efficiency, and architectural discipline.  
 
 ---
 
@@ -77,16 +77,31 @@ Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-D
 
 - Domain-Driven Design (**DDD**)  
 - Cloud-native microservices with **Kubernetes**  
-- **Open Banking APIs** and financial compliance systems  
-- Event-driven architecture and **CQRS patterns**
+- **Open Banking APIs** and fintech compliance standards  
+- Advanced event-driven architecture and **CQRS patterns**  
 
 ---
 
-## 📈 GitHub Stats & Tools
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Zami-Arafat&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AL-Zami-Arafat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Zami-Arafat&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AL-Zami-Arafat&theme=radical)
+
+---
+
+## 🏅 Tech Badges
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
@@ -98,4 +113,4 @@ Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-D
 
 ---
 
-⭐ _“Building the infrastructure that powers the next generation of digital payments.”_
+⭐ _“Building the infrastructure that powers the next generation of digital payments and enterprise systems.”_
