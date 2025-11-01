@@ -1,24 +1,33 @@
-# 👋 Hi, I'm AL Zami Arafat
+<!-- Hero Heading as Image -->
+<p align="center">
+  <img src="https://your-image-link.com/AL-Zami-Arafat-Header.png" alt="AL Zami Arafat" width="700"/>
+</p>
 
-🚀 **Senior Software Engineer | Backend & Full-Stack Developer | Fintech & ERP Specialist**
+<p align="center">
+  🚀 <strong>Senior Software Engineer | Backend & Full-Stack Developer | Fintech & ERP Specialist</strong>
+</p>
+
+---
+
+## 📌 Profile
 
 With over **4+ years of experience**, I design and develop **scalable, secure, and high-performance software solutions**.  
-My expertise spans **backend architecture, API design, microservices, cloud infrastructure, and payment systems**.  
-I’m passionate about crafting **clean, maintainable code** and optimizing systems for **efficiency, reliability, and scalability**.
+Expert in **backend architecture, API design, microservices, cloud infrastructure, and payment systems**.  
+Passionate about crafting **clean, maintainable code** and optimizing systems for **efficiency, reliability, and scalability**.
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Experienced in **backend and full-stack development** with deep expertise in **Laravel**, **Node.js**, **Nest.js**, and **React.js**.  
-- 🏗️ Specialized in **microservices architecture**, **API Gateway design**, and **event-driven systems** using **Kafka**.  
-- 🔐 Skilled in integrating **secure payment systems** and **financial APIs** (Visa, Mastercard, CyberSource, PayPal, SSLCommerz, etc.).  
-- ⚙️ Proficient in building **CI/CD pipelines**, **automated deployments**, and **cloud-managed infrastructures** for modern applications.  
-- 🌐 Strong background in **ERP**, **Fintech**, and **B2C systems**, delivering reliable, high-traffic, enterprise-grade platforms.
+- 💻 Experienced in **backend and full-stack development**: Laravel, Node.js, Nest.js, React.js  
+- 🏗️ Specialized in **microservices architecture**, API Gateway design, event-driven systems with Kafka  
+- 🔐 Skilled in **secure payment system integrations**: Visa, Mastercard, CyberSource, PayPal, SSLCommerz  
+- ⚙️ Proficient in **CI/CD pipelines, automated deployments, and cloud infrastructures**  
+- 🌐 Strong background in **ERP, Fintech, and B2C systems**, delivering enterprise-grade platforms  
 
 ---
 
-## 💡 Key Highlights
+## 💡 Key Skills
 
 **Backend Development:** Laravel · Node.js · Nest.js · Express.js · PHP · JavaScript · TypeScript  
 **Architecture & Design:** Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-Driven Systems  
@@ -33,25 +42,23 @@ I’m passionate about crafting **clean, maintainable code** and optimizing syst
 
 ## 🏆 Professional Experience Highlights
 
-- 🧩 **Designed and developed a full ERP system from scratch**, including modules for **inventory, procurement, accounting, and user management**, improving efficiency and scalability.  
-- 🔧 **Developed and optimized RESTful APIs** using **Laravel**, **Node.js**, and **Nest.js**, following **microservices principles**.  
-- 🧠 **Built scalable architectures** leveraging **Kafka**, handling millions of concurrent data streams.  
-- ⚙️ **Implemented CI/CD pipelines** using **GitHub Actions** and **Docker**, automating testing, deployment, and monitoring.  
-- 💳 **Integrated multiple payment gateways** including **PayPal**, **Stripe**, **Visa**, **Mastercard**, **SSLCommerz**, and **CyberSource**.  
-- 🧾 **Automated invoicing, promo code management, and billing systems**.  
-- 📦 **Developed advanced inventory management features** in ERP systems.  
-- 📱 **Built responsive web applications** using **React.js**, **Material UI**, and **Bootstrap**.  
-- 🧑‍💻 **Developed CMS-based backends** for API-driven platforms.  
-- 🔐 **Implemented secure authentication and authorization mechanisms** including **multi-factor authentication**.  
-- 📡 **Integrated SMS and email communication services** using **SMTP, IMAP, Kafka, Infobip**.  
-- ⚡ **Performed live database migrations** in production environments.  
-- 🧪 **Wrote comprehensive unit tests** for APIs and system features.  
-- 🧰 **Optimized backend systems** for performance and scalability.  
-- 🤝 **Mentored team members** and conducted **code reviews**.
+- 🧩 Full ERP System Development: Inventory, procurement, accounting, and user management modules  
+- 🔧 RESTful API Development using Laravel, Node.js, and Nest.js (microservices architecture)  
+- 🧠 Scalable architecture leveraging Kafka for millions of concurrent data streams  
+- ⚙️ CI/CD pipelines with GitHub Actions and Docker for automated testing & deployment  
+- 💳 Integrated PayPal, Stripe, Visa, Mastercard, SSLCommerz, CyberSource for secure payments  
+- 🧾 Automation: Invoicing, promo codes, and billing systems  
+- 📦 Advanced inventory management features for ERP  
+- 📱 Responsive web and mobile apps using React.js, Material UI, Bootstrap  
+- 🔐 Multi-factor authentication & token-based access control  
+- 📡 SMS & email systems via SMTP, IMAP, Kafka, Infobip  
+- ⚡ Live database migrations with minimal downtime  
+- 🧪 Unit testing & performance optimization  
+- 🤝 Mentorship & code review for team members  
 
 ---
 
-## 🧰 Tech Stack Overview
+## 🧰 Tech Stack
 
 **Languages & Frameworks:** TypeScript · JavaScript · PHP · Laravel · Node.js · Nest.js · Express.js · React.js  
 **Databases:** MySQL · PostgreSQL · MongoDB · MSSQL  
@@ -80,22 +87,4 @@ I’m passionate about crafting **clean, maintainable code** and optimizing syst
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AL-Zami-Arafat&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Zami-Arafat&layout=compact&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Zami-Arafat&theme=radical" alt="GitHub Streak" width="1000" height="165"/>
-</p>
-
----
-
-⭐ _“Building the infrastructure that powers the next generation of digital payments and enterprise systems.”_
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the)
