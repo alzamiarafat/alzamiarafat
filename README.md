@@ -9,6 +9,10 @@
              Laravel, Node.js, Nest.js, Express.js, PHP, JavaScript, TypeScript
         </li>
         <li>
+            <strong><span class="badge badge-primary">Architecture:</span></strong>
+             Microservices, Repository Pattern, Adapter Design Pattern, API Gateway, Event-Driven Systems
+        </li>
+        <li>
              <strong><span class="badge badge-primary">Frontend Technologies:</span></strong>
              HTML, CSS, React.js, Tailwind CSS, Bootstrap, Material UI
         </li>
@@ -17,7 +21,7 @@
              MySQL, PostgreSQL, MongoDB, MSSQL
         </li>
         <li>
-             <strong><span class="badge badge-primary">Microservices & Scalability:</span></strong>
+             <strong><span class="badge badge-primary">Scalability:</span></strong>
              Kafka, RESTful APIs, CI/CD Pipelines
         </li>
          <li>
