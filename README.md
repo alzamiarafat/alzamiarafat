@@ -1,144 +1,295 @@
+
+<!-- ========================================================= -->
+<!--                 AL ZAMI ARAFAT | README                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<!-- MINIMALIST ARCHITECTURAL HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:0f172a,100:030712&height=120&section=header&text=AL%20ZAMI%20ARAFAT&fontColor=38bdf8&fontSize=36&fontWeight=700&fontAlignY=50&letterSpacing=4" alt="Al Zami Arafat" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,50:0f172a,100:020617&text=AL%20ZAMI%20ARAFAT&fontSize=42&fontColor=38BDF8&fontAlignY=43&desc=BACKEND%20ENGINEERING%20%7C%20DISTRIBUTED%20SYSTEMS%20%7C%20FINTECH&descSize=12&descColor=C4B5FD&descAlignY=68"
+    width="100%"
+    alt="Al Zami Arafat — Backend Engineer"
+  />
 
-<!-- PROFESSIONAL DEVELOPER TYPING ANIMATION -->
-<div align="center">
+  <br/>
+
   <a href="https://github.com/alzamiarafat">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Al+Zami+Arafat+%F0%9F%91%8B;Senior+Software+Engineer;Backend+Developer+%7C+FinTech+%7C+System+Design;Building+Scalable+%26+Reliable+Systems"
-      alt="Typing animation"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=Senior+Software+Engineer;Backend+%26+FinTech+Systems;Microservices+%26+Distributed+Architecture;Engineering+Reliable+Systems+at+Scale" alt="Professional introduction" />
   </a>
+
+  <br/>
+
+  <p>
+    <a href="https://www.linkedin.com/in/al-zami-arafat-8871b8201/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:alzamiarafat00@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://al-zami-arafat-website.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://wa.me/8801780944266">
+      <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=alzamiarafat&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
-<!-- CONNECT BADGES -->
-<a href="https://www.linkedin.com/in/al-zami-arafat-8871b8201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://al-zami-arafat-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://wa.me/8801780944266"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+---
 
-<!-- ANIMATED / DYNAMIC PILLS -->
-<img src="https://img.shields.io/badge/Distributed_Core-030712?style=for-the-badge&logo=apachekafka&logoColor=a78bfa&labelColor=030712&color=1e293b" alt="Kafka" />
-<img src="https://img.shields.io/badge/FinTech_Ledgers-030712?style=for-the-badge&logo=stripe&logoColor=34d399&labelColor=030712&color=1e293b" alt="FinTech" />
-<img src="https://img.shields.io/badge/Microservices-030712?style=for-the-badge&logo=nestjs&logoColor=ef4444&labelColor=030712&color=1e293b" alt="NestJS" />
-<img src="https://img.shields.io/badge/PostgreSQL_Mastery-030712?style=for-the-badge&logo=postgresql&logoColor=60a5fa&labelColor=030712&color=1e293b" alt="PostgreSQL" />
+## `01` — Engineering Philosophy
 
-</div>
+> **Reliable systems are not built by writing more code. They are built by making the right decisions about data, concurrency, failure, and consistency.**
 
-<br/>
+I'm a **Senior Software Engineer** focused on backend engineering, FinTech platforms, distributed systems, and scalable API architecture.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:030712,50:38bdf8,100:030712" alt="" />
+I enjoy solving complex engineering problems involving:
 
-<h3 align="center">⚡ &nbsp;Core Engineering Directive</h3>
+- Designing maintainable, service-oriented backend architectures.
+- Building secure payment integrations and financial transaction workflows.
+- Improving database performance and handling concurrent operations.
+- Engineering reliable APIs with predictable contracts and failure handling.
+- Automating deployments and improving production observability.
 
-<p align="center">
-  <i>"Writing code is easy. Guaranteeing state consistency across asynchronous boundaries under heavy concurrent traffic is the real problem."</i><br/>
-  I specialize in building reliable, fault-tolerant backend infrastructures where zero-discrepancy money movement and resilient API contracts are non-negotiable.
+My goal is simple: **build systems that remain reliable when complexity, traffic, and business requirements grow.**
+
+---
+
+## `02` — Professional Experience
+
+<table>
+  <tr>
+    <td width="180">
+      <strong>Sheba Platform</strong><br/>
+      <sub>2024 — Present</sub>
+    </td>
+    <td>
+      <strong>Senior Software Engineer</strong><br/><br/>
+      Working on FinTech platforms, wallet systems, payment integrations, and backend services.
+      <ul>
+        <li>Developing service-oriented architectures with NestJS, Django, and Flask.</li>
+        <li>Integrating payment systems, recurring billing, and financial transaction workflows.</li>
+        <li>Building API authentication, gateway security, and service-to-service communication.</li>
+        <li>Contributing to production reliability, code quality, and deployment automation.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>BYSL Global Technology Group</strong><br/>
+      <sub>2022 — 2024</sub>
+    </td>
+    <td>
+      <strong>Senior Executive Software Engineer</strong><br/><br/>
+      Developed enterprise software, ERP modules, and backend integrations.
+      <ul>
+        <li>Designed backend services and REST APIs for business applications.</li>
+        <li>Worked with relational databases, schema migrations, and query optimization.</li>
+        <li>Used messaging technologies and automation to support asynchronous workflows.</li>
+        <li>Contributed to maintainable code architecture and production deployments.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Omicon Group &amp; Alesha Group</strong><br/>
+      <sub>2020 — 2022</sub>
+    </td>
+    <td>
+      <strong>Full Stack &amp; Backend Developer</strong><br/><br/>
+      Built web applications, business modules, and API-driven integrations.
+      <ul>
+        <li>Implemented authentication, role-based access control, and REST APIs.</li>
+        <li>Developed procurement, invoicing, and business workflow features.</li>
+        <li>Worked with database design, indexing, and application performance.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `03` — Architecture & Engineering
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>01. Distributed Systems</h3>
+      <sub>
+        Microservices · API gateways · gRPC · Event-driven architecture · Message brokers
+      </sub>
+    </td>
+    <td width="50%">
+      <h3>02. Transaction Reliability</h3>
+      <sub>
+        Idempotency · Transaction boundaries · Saga patterns · Retry strategies · Consistency
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>03. Database Engineering</h3>
+      <sub>
+        PostgreSQL · Query optimization · Indexing · Schema migrations · Connection pooling
+      </sub>
+    </td>
+    <td>
+      <h3>04. Security &amp; API Design</h3>
+      <sub>
+        JWT · OAuth 2.0 · RBAC · API validation · Rate limiting · Secure integrations
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>05. FinTech Integrations</h3>
+      <sub>
+        Payment gateways · Digital wallets · Recurring billing · Card tokenization · Banking APIs
+      </sub>
+    </td>
+    <td>
+      <h3>06. Production Engineering</h3>
+      <sub>
+        Docker · Linux · CI/CD · Logging · Monitoring · Troubleshooting
+      </sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `04` — Technology Stack
+
+### Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,python,django,flask,php,laravel" alt="Backend technologies"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:030712,50:7c3aed,100:030712" alt="" />
+### Databases, Caching & Messaging
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" alt="Data and messaging technologies"/>
+</p>
 
-<!-- ───────────── CAREER TRACK RECORD ───────────── -->
-<h3 align="center">🏛️ &nbsp;Engineering Experience &amp; Impact</h3>
+### Infrastructure & Developer Tools
 
-<table align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,git,github,gitlab,postman" alt="Infrastructure and developer tools"/>
+</p>
+
+### Frontend & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend technologies"/>
+</p>
+
+---
+
+## `05` — Selected Engineering Work
+
+<table>
   <tr>
-    <td width="22%" align="center"><b>FinTech Architecture</b><br/><sub>2024 → Present</sub></td>
-    <td>
-      <b>Senior Software Engineer @ Sheba Platform</b><br/>
-      Designing high-throughput core ledger systems, automated multi-tier wallets, and secure interbank fund transfers. 
-      Architecting event-driven microservices (NestJS, Django, Flask) behind strict API gateways, implementing tokenized recurring billing schedulers, 
-      and establishing atomic transaction pipelines with zero financial discrepancies. Leading code quality standards, security threat modeling, and deployment pipelines.
+    <td width="50%">
+      <h3>FinTech & Payment Integrations</h3>
+      <p>
+        Payment processing and integration workflows involving banking partners,
+        card payments, digital wallets, recurring billing, and utility payments.
+      </p>
+      <sub>Payments · API Security · Financial Workflows</sub>
+    </td>
+    <td width="50%">
+      <h3>Microservices & API Platforms</h3>
+      <p>
+        Backend services with API gateways, service authentication, inter-service
+        communication, and independent service responsibilities.
+      </p>
+      <sub>NestJS · Django · Flask · gRPC</sub>
     </td>
   </tr>
   <tr>
-    <td width="22%" align="center"><b>Distributed Systems &amp; ERP</b><br/><sub>2022 → 2024</sub></td>
     <td>
-      <b>Senior Executive Software Engineer @ BYSL Global Technology Group</b><br/>
-      Engineered enterprise-scale ERP microservices from the ground up. Implemented event message brokers via Apache Kafka, 
-      optimized high-volume relational schemas in PostgreSQL, executed live production database migrations without downtime, 
-      and enforced strict concurrency locks for critical business logic modules.
+      <h3>Enterprise ERP Systems</h3>
+      <p>
+        Business applications covering inventory, procurement, reporting,
+        database management, and operational workflows.
+      </p>
+      <sub>Laravel · REST APIs · SQL</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="22%" align="center"><b>Backend Foundations</b><br/><sub>2020 → 2022</sub></td>
     <td>
-      <b>Full Stack &amp; Backend Developer @ Omicon Group &amp; Alesha Group</b><br/>
-      Developed secure backend APIs, role-based access control (RBAC), automated e-invoicing pipelines, procurement modules, 
-      and high-performance database indexing strategies to slash query response latency.
+      <h3>Automation & Data Processing</h3>
+      <p>
+        Backend integrations, asynchronous messaging, automated notifications,
+        and production-oriented data workflows.
+      </p>
+      <sub>Python · Kafka · Docker</sub>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- ───────────── SYSTEM DESIGN & SKILLS ───────────── -->
-<h3 align="center">📐 &nbsp;System Design &amp; Architectural Focus</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <b>🔄 Distributed Transactions</b><br/>
-      <sub>Idempotent APIs · Saga orchestrations<br/>eventual consistency · atomicity</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>⚡ High Concurrency</b><br/>
-      <sub>Race-condition prevention<br/>distributed locking · queue buffering</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>🗄️ Database Deep Dive</b><br/>
-      <sub>Indexing strategies · query profiling<br/>partitioning · connection pooling</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>🛡️ Security &amp; Gateways</b><br/>
-      <sub>Zero-trust architecture · rate limiting<br/>payload sanitization · JWT/OAuth2</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ───────────── TECH STACK (WITH HOVER ANIMATION CARDS) ───────────── -->
-<h3 align="center">🧰 &nbsp;Technology Stack</h3>
+## `06` — GitHub Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BACKEND_&_SERVICES-030712?style=flat-square&labelColor=38bdf8&color=030712" alt="" /><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask,php,laravel,ts,js&perline=9&theme=dark" alt="backend" /></a>
-<br/><br/>
-<img src="https://img.shields.io/badge/DATA_STORES_&_BROKERS-030712?style=flat-square&labelColor=7c3aed&color=030712" alt="" /><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=8&theme=dark" alt="data" /></a>
-<br/><br/>
-<img src="https://img.shields.io/badge/INFRASTRUCTURE_&_TOOLING-030712?style=flat-square&labelColor=38bdf8&color=030712" alt="" /><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,git,github,gitlab,postman&perline=8&theme=dark" alt="infra" /></a>
-<br/><br/>
-<img src="https://img.shields.io/badge/CLIENT_INTERFACES-030712?style=flat-square&labelColor=7c3aed&color=030712" alt="" /><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8&theme=dark" alt="frontend" /></a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alzamiarafat&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&ring_color=38BDF8"
+    height="180"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamiarafat&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"
+    height="180"
+    alt="Most used programming languages"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=alzamiarafat&hide_border=true&background=020617&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
+
+  <br/><br/>
 
 </div>
 
-<br/>
+---
 
-<!-- ───────────── GITHUB METRICS & LIVE ACTIVITY GRAPH ───────────── -->
-<h3 align="center">📊 &nbsp;GitHub Analytics &amp; Activity</h3>
+## `07` — Beyond the Code
+
+- **System Design:** Exploring architectural trade-offs, reliability, and scalability.
+- **Performance:** Finding bottlenecks in APIs, database queries, and asynchronous workloads.
+- **Engineering Quality:** Building maintainable codebases with clear boundaries and reusable components.
+- **Continuous Learning:** Exploring better tools, patterns, and approaches to production engineering.
+
+---
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=alzamiarafat&show_icons=true&hide_border=false&border_color=1e293b&border_radius=12&bg_color=030712&title_color=38bdf8&icon_color=7c3aed&text_color=cbd5e1&ring_color=38bdf8" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamiarafat&layout=compact&langs_count=6&hide_border=false&border_color=1e293b&border_radius=12&bg_color=030712&title_color=38bdf8&text_color=cbd5e1" alt="Top languages" />
+  <h3>Building systems that scale. Engineering for reliability.</h3>
 
-<br/><br/>
+  <p>
+    Open to meaningful engineering conversations, collaboration,
+    and challenging backend problems.
+  </p>
 
-<!-- STREAK STATS WITH LIVE ANIMATED RING -->
-<img src="https://streak-stats.demolab.com?user=alzamiarafat&border_radius=12&stroke=1e293b&background=030712&ring=7c3aed&fire=38bdf8&currStreakNum=cbd5e1&sideNums=cbd5e1&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" alt="Contribution streak" />
+  <a href="https://www.linkedin.com/in/al-zami-arafat-8871b8201/">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
 
-<br/><br/>
+  <br/><br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:312E81,100:0F172A"
+    width="100%"
+    alt=""
+  />
 
 </div>
-
-<!-- ANIMATED WAVING FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7c3aed,50:1e1b4b,100:030712&section=footer&reversal=true" alt="" />
