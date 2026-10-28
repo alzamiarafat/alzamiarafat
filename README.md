@@ -1,112 +1,123 @@
-# 👋 Hi, I'm AL Zami Arafat  
+<!-- ───────────── HEADER ───────────── -->
+<div align="center">
 
-🚀 **Senior Software Engineer | Backend & Full-Stack Developer | Fintech & ERP Specialist**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Al%20Zami%20Arafat&fontColor=e6edf3&fontSize=44&fontAlignY=38&animation=fadeIn" alt="Al Zami Arafat" />
 
-<p>
-     With over <strong>4+ years of experience</strong>, I design and develop <strong>scalable, secure, and high-performance software solutions</strong>. My expertise spans <strong>backend architecture, API design, microservices, cloud infrastructure, and payment systems</strong>. I’m passionate about crafting <strong>clean, maintainable code</strong> and optimizing systems for <strong>efficiency, reliability, and scalability</strong>.
-</p>
+<a href="https://github.com/alzamiarafat">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer;Building+backend+systems+that+scale;Designing+APIs+people+enjoy+using;Payments+%C2%B7+FinTech+%C2%B7+Architecture" alt="Typing SVG" />
+</a>
 
----
+</div>
 
-## 🧠 About Me
+<br/>
 
-- 💻 Experienced in **backend and full-stack development** with deep expertise in **Laravel**, **Node.js**, **Nest.js**, and **React.js**.  
-- 🏗️ Specialized in **microservices architecture**, **API Gateway design**, and **event-driven systems** using **Kafka**.  
-- 🔐 Skilled in integrating **secure payment systems** and **financial APIs** (Visa, Mastercard, CyberSource, PayPal, SSLCommerz, etc.).  
-- ⚙️ Proficient in building **CI/CD pipelines**, **automated deployments**, and **cloud-managed infrastructures** for modern applications.  
-- 🌐 Strong background in **ERP**, **Fintech**, and **B2C systems**, delivering reliable, high-traffic, enterprise-grade platforms.
+<!-- ───────────── INTRO ───────────── -->
 
----
+```ts
+const arafat = {
+  github: "alzamiarafat",
+  role: "Software Engineer",
+  focus: ["Backend Engineering", "Distributed Systems", "API Design", "FinTech", "Software Architecture"],
+  philosophy: "Keep it simple, make it observable, ship it safely.",
+};
+```
 
-## 💡 Key Highlights
+Hey, I'm Arafat. I like backend work: the part of a system you never see but definitely notice when it breaks.
+I spend my time on API design, service boundaries, and the small decisions that keep a system easy to change a year later.
+Money-moving software is my favorite kind of problem, because correctness really matters there.
 
-- **Backend Development:** Laravel · Node.js · Nest.js · Express.js · PHP · JavaScript · TypeScript  
-- **Architecture & Design:** Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-Driven Systems  
-- **Frontend Development:** React.js · HTML · CSS · Tailwind CSS · Bootstrap · Material UI  
-- **Databases:** MySQL · PostgreSQL · MongoDB · MSSQL  
-- **DevOps & Infrastructure:** Docker · Nginx · Apache2 · GitHub Actions · CI/CD Pipelines  
-- **Payments & Messaging:** PayPal · Stripe · SSLCommerz · CyberSource · Visa · Mastercard · BoomCast · Infobip  
-- **Cloud & Server Management:** VPS · cPanel · aaPanel · Vultr · Namecheap · Contabo  
-- **Scalability Tools:** Kafka · RESTful APIs · Redis · Load Balancing  
+<!-- ───────────── EXPLORING ───────────── -->
 
----
+### 🔭 Currently exploring
 
-## 🏆 Professional Experience Highlights
+- **Backend architecture**: service boundaries, clean layering, maintainable codebases
+- **Scalable services**: async processing, messaging, resilient integrations
+- **System design**: trade-offs, failure modes, and designing for change
+- **Modern engineering practices**: CI/CD, testing strategy, observability
 
-- 🧩 **Designed and developed a full ERP system from scratch**, including modules for **inventory, procurement, accounting, and user management**, improving efficiency and scalability.  
-- 🔧 **Developed and optimized RESTful APIs** using **Laravel**, **Node.js**, and **Nest.js**, following **microservices principles** for modular and maintainable backend systems.  
-- 🧠 **Built scalable architectures** leveraging **Kafka**, handling millions of concurrent data streams with improved system performance and reduced latency.  
-- ⚙️ **Implemented CI/CD pipelines** using **GitHub Actions** and **Docker**, automating testing, deployment, and monitoring for reliable software delivery.  
-- 💳 **Integrated multiple payment gateways** including **PayPal**, **Stripe**, **Visa**, **Mastercard**, **SSLCommerz**, and **CyberSource**, enabling secure online and recurring transactions.  
-- 🧾 **Automated invoicing, promo code management, and billing systems**, streamlining business operations and improving customer experience.  
-- 📦 **Developed advanced inventory management features** in ERP systems, ensuring efficient stock tracking, order management, and reporting.  
-- 📱 **Built responsive web applications** using **React.js**, **Material UI**, and **Bootstrap**, ensuring seamless UX across devices.  
-- 🧑‍💻 **Developed CMS-based backends** for API-driven platforms, enabling dynamic content management and integration with mobile and web clients.  
-- 🔐 **Implemented secure authentication and authorization mechanisms**, including **multi-factor authentication** and **token-based access control**.  
-- 📡 **Integrated SMS and email communication services** using **SMTP**, **IMAP**, **Kafka**, and **Infobip**, ensuring high-throughput, real-time message delivery.  
-- ⚡ **Performed live database migrations** in production environments with minimal downtime, ensuring seamless version upgrades and data integrity.  
-- 🧪 **Wrote comprehensive unit tests** and mock integrations to ensure system reliability, maintainability, and long-term stability.  
-- 🧰 **Optimized backend systems** for performance and scalability, achieving significant reductions in response times and system load.  
-- 🤝 **Mentored team members** and conducted **code reviews**, fostering a culture of clean code, efficiency, and architectural discipline.  
+<!-- ───────────── TECH STACK ───────────── -->
 
----
+### ⚙️ Tech stack
 
-## 🧰 Tech Stack Overview
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask,php,laravel&theme=dark" alt="backend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Messaging</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka&theme=dark" alt="data" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra &amp; Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,nginx,apache,linux,bash,git,github,gitlab,bitbucket&theme=dark" alt="infra" />
+    </td>
+  </tr>
+</table>
 
-**Languages & Frameworks:**  
-TypeScript · JavaScript · PHP · Laravel · Node.js · Nest.js · Express.js · React.js  
+<!-- ───────────── GITHUB ACTIVITY ───────────── -->
 
-**Databases:**  
-MySQL · PostgreSQL · MongoDB · MSSQL  
+### 📊 GitHub activity
 
-**Infrastructure & Tools:**  
-Docker · GitHub Actions · Nginx · Apache2 · Vultr · Contabo · cPanel · aaPanel  
+<div align="center">
 
-**Messaging & Streaming:**  
-Apache Kafka  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alzamiarafat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamiarafat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top languages" />
 
-**Integrations & APIs:**  
-PayPal · Stripe · SSLCommerz · CyberSource · Visa · Mastercard · Nagad · BoomCast · Infobip  
+<img src="https://streak-stats.demolab.com?user=alzamiarafat&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak" />
 
-**Architecture Patterns:**  
-Microservices · Repository Pattern · Adapter Pattern · API Gateway · Event-Driven Systems  
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alzamiarafat&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 
----
+</div>
 
-## 📫 Connect with Me
+<!-- ───────────── FEATURED PROJECTS ───────────── -->
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/al-zami-arafat)  
-- 💻 [GitHub](https://github.com/alzamiarafat)  
-- ✉️ [Email](mailto:alzamiarafat00@gmail.com)  
+### 🚀 Featured projects
 
----
+<!--
+  PLACEHOLDERS: replace REPO_NAME_1 / REPO_NAME_2 with the exact names of your own
+  public repositories, then delete this comment. Each card pulls its description and
+  language directly from GitHub, so nothing needs to be written by hand.
+  Cards for repos that don't exist will show an error, so only keep slots you fill.
+-->
 
-## 🏅 Tech Badges
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/alzamiarafat/REPO_NAME_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/alzamiarafat/REPO_NAME_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+<!-- ───────────── CONNECT ───────────── -->
 
+### 🤝 Connect
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AL-Zami-Arafat&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Zami-Arafat&layout=compact&theme=radical" height="165" />
-</p>
+<a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/GitHub-alzamiarafat-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-alzamiarafat00@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Zami-Arafat&theme=radical" alt="GitHub Streak" width="1000" height="165"/>
-</p>
+<br/><br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" alt="footer" />
 
----
-
-⭐ _“Building the infrastructure that powers the next generation of digital payments and enterprise systems.”_
+</div>
