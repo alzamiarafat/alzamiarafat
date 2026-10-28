@@ -1,5 +1,6 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Al%20Zami%20Arafat&fontColor=e6edf3&fontSize=44&fontAlignY=38&animation=fadeIn" alt="Al Zami Arafat" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=240&section=header&text=Al%20Zami%20Arafat&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20FinTech&descAlignY=58&descSize=18&animation=twinkling" alt="Al Zami Arafat" />
 
 <a href="https://github.com/alzamiarafat">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Designing+APIs+that+stay+easy+to+change;Building+backend+systems+that+scale;Thinking+in+services%2C+queues+and+trade-offs;Correctness+first.+Then+speed." alt="typing" />
@@ -11,7 +12,7 @@
 <!-- PLACEHOLDER: replace https://YOUR-PORTFOLIO-URL with your real portfolio link -->
 <a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/al-zami-arafat"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://wa.me/8801780944266"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58a6ff&labelColor=0d1117&color=21262d" alt="Backend" />
 <img src="https://img.shields.io/badge/Distributed_Systems-0d1117?style=for-the-badge&logo=apachekafka&logoColor=8957e5&labelColor=0d1117&color=21262d" alt="Distributed Systems" />
@@ -21,9 +22,7 @@
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:1f6feb,100:0d1117" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=40&section=header&animation=soft-wave" alt="" />
 
 <h3 align="center">👋 &nbsp;Hey, I'm Arafat</h3>
 
@@ -33,9 +32,11 @@ Clear contracts, predictable failures, services with honest boundaries.<br/>
 Money-moving systems are my favorite problems, because correctness isn't optional there.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:8957e5,100:0d1117" alt="" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1200&color=8957E5&center=true&vCenter=true&width=520&height=30&lines=%24+git+commit+-m+%22keep+it+simple%22;%24+docker+compose+up+-d;%24+make+it+work+%E2%86%92+make+it+right+%E2%86%92+make+it+fast" alt="terminal typing" />
+</div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8957e5,100:0d1117&height=40&section=header&animation=soft-wave" alt="" />
 
 <!-- ───────────── CAREER ───────────── -->
 <h3 align="center">🧭 &nbsp;What I've been building</h3>
@@ -101,7 +102,7 @@ Money-moving systems are my favorite problems, because correctness isn't optiona
   </tr>
 </table>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=40&section=header&animation=soft-wave" alt="" />
 
 <h3 align="center">🧰 &nbsp;Tech stack</h3>
 
@@ -121,7 +122,7 @@ Money-moving systems are my favorite problems, because correctness isn't optiona
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8957e5,100:0d1117&height=40&section=header&animation=soft-wave" alt="" />
 
 <h3 align="center">📈 &nbsp;GitHub activity</h3>
 
@@ -138,9 +139,14 @@ Money-moving systems are my favorite problems, because correctness isn't optiona
 
 <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=alzamiarafat&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 
+<br/>
+
+<!-- Animated contribution snake: needs the GitHub Action from the notes below. Until it runs once, this image is empty. -->
+<img width="97%" src="https://raw.githubusercontent.com/alzamiarafat/alzamiarafat/output/github-snake-dark.svg" alt="Contribution snake" />
+
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=40&section=header&animation=soft-wave" alt="" />
 
 <h3 align="center">🚀 &nbsp;Featured projects</h3>
 
@@ -155,4 +161,4 @@ Money-moving systems are my favorite problems, because correctness isn't optiona
 <a href="https://github.com/alzamiarafat/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_2&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9" alt="Project 2" /></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8957e5,55:1f6feb,100:0d1117&section=footer&reversal=true" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0d1117&height=120&section=footer&reversal=true&animation=twinkling" alt="" />
