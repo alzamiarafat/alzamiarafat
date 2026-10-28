@@ -3,9 +3,7 @@
 <!--                 AL ZAMI ARAFAT | README                   -->
 <!-- ========================================================= -->
 
-<p>
-     With over <strong>5 years of experience</strong>, I design and develop <strong>scalable, secure, and high-performance software solutions</strong>. My expertise spans <strong>backend architecture, API design, microservices, cloud infrastructure, and payment systems</strong>. I’m passionate about crafting <strong>clean, maintainable code</strong> and optimizing systems for <strong>efficiency, reliability, and scalability</strong>.
-</p>
+<div align="center">
 
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,50:0f172a,100:020617&text=AL%20ZAMI%20ARAFAT&fontSize=42&fontColor=38BDF8&fontAlignY=43&desc=BACKEND%20ENGINEERING%20%7C%20DISTRIBUTED%20SYSTEMS%20%7C%20FINTECH&descSize=12&descColor=C4B5FD&descAlignY=68"
@@ -38,23 +36,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=alzamiarafat&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
 
-## 🏆 Professional Experience Highlights
-
-- **Designed and developed a full ERP system from scratch**, including modules for **inventory, procurement, accounting, and user management**, improving efficiency and scalability.  
-- **Developed and optimized RESTful APIs** using **Laravel**, **Node.js**, and **Nest.js**, following **microservices principles** for modular and maintainable backend systems.  
-- **Built scalable architectures** leveraging **Kafka**, handling millions of concurrent data streams with improved system performance and reduced latency.  
-- **Implemented CI/CD pipelines** using **GitHub Actions** and **Docker**, automating testing, deployment, and monitoring for reliable software delivery.  
-- **Integrated multiple payment gateways** including **PayPal**, **Stripe**, **Visa**, **Mastercard**, **SSLCommerz**, and **CyberSource**, enabling secure online and recurring transactions.  
-- **Automated invoicing, promo code management, and billing systems**, streamlining business operations and improving customer experience.  
-- **Developed advanced inventory management features** in ERP systems, ensuring efficient stock tracking, order management, and reporting.  
-- **Built responsive web applications** using **React.js**, **Material UI**, and **Bootstrap**, ensuring seamless UX across devices.  
--  **Developed CMS-based backends** for API-driven platforms, enabling dynamic content management and integration with mobile and web clients.  
-- **Implemented secure authentication and authorization mechanisms**, including **multi-factor authentication** and **token-based access control**.  
-- **Integrated SMS and email communication services** using **SMTP**, **IMAP**, **Kafka**, and **Infobip**, ensuring high-throughput, real-time message delivery.  
-- **Performed live database migrations** in production environments with minimal downtime, ensuring seamless version upgrades and data integrity.  
-- **Wrote comprehensive unit tests** and mock integrations to ensure system reliability, maintainability, and long-term stability.  
-- **Optimized backend systems** for performance and scalability, achieving significant reductions in response times and system load.  
-- **Mentored team members** and conducted **code reviews**, fostering a culture of clean code, efficiency, and architectural discipline.  
+</div>
 
 ---
 
@@ -183,18 +165,11 @@ My goal is simple: **build systems that remain reliable when complexity, traffic
 
 ### Backend & Frameworks
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,python,django,flask,php,laravel" alt="Backend technologies"/>
+</p>
+
+### Databases, Caching & Messaging
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" alt="Data and messaging technologies"/>
@@ -282,6 +257,12 @@ My goal is simple: **build systems that remain reliable when complexity, traffic
   />
 
   <br/><br/>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alzamiarafat&bg_color=020617&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 
 </div>
 
