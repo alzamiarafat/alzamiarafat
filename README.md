@@ -1,123 +1,111 @@
-<!-- ───────────── HEADER ───────────── -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Al%20Zami%20Arafat&fontColor=e6edf3&fontSize=44&fontAlignY=38&animation=fadeIn" alt="Al Zami Arafat" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,100:0d1117&height=4" alt="" />
 
 <a href="https://github.com/alzamiarafat">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer;Building+backend+systems+that+scale;Designing+APIs+people+enjoy+using;Payments+%C2%B7+FinTech+%C2%B7+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=3FB950&background=0D111700&center=true&vCenter=true&width=700&height=70&lines=%24+whoami;al-zami-arafat+%E2%86%92+software+engineer;%24+cat+focus.txt;backend+%C2%B7+distributed+systems+%C2%B7+api+design;fintech+%C2%B7+software+architecture;%24+_" alt="Terminal typing" />
 </a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,100:0d1117&height=4" alt="" />
 
 </div>
 
 <br/>
 
-<!-- ───────────── INTRO ───────────── -->
+```bash
+alzamiarafat@github:~$ cat about.md
 
-```ts
-const arafat = {
-  github: "alzamiarafat",
-  role: "Software Engineer",
-  focus: ["Backend Engineering", "Distributed Systems", "API Design", "FinTech", "Software Architecture"],
-  philosophy: "Keep it simple, make it observable, ship it safely.",
-};
+I build backend systems and care about the boring parts:
+clear contracts, predictable failures, and code that's easy to change.
+FinTech is where I like to work, since correctness isn't optional there.
 ```
 
-Hey, I'm Arafat. I like backend work: the part of a system you never see but definitely notice when it breaks.
-I spend my time on API design, service boundaries, and the small decisions that keep a system easy to change a year later.
-Money-moving software is my favorite kind of problem, because correctness really matters there.
+<br/>
 
-<!-- ───────────── EXPLORING ───────────── -->
+## `~/mental-model`
 
-### 🔭 Currently exploring
+> How I like to think about a service.
 
-- **Backend architecture**: service boundaries, clean layering, maintainable codebases
-- **Scalable services**: async processing, messaging, resilient integrations
-- **System design**: trade-offs, failure modes, and designing for change
-- **Modern engineering practices**: CI/CD, testing strategy, observability
+```mermaid
+flowchart LR
+    C([Client]) --> G[API Gateway]
+    G --> A[Auth]
+    G --> S1[Service A]
+    G --> S2[Service B]
+    S1 --> DB[(Database)]
+    S2 --> Q{{Message Queue}}
+    Q --> W[Worker]
+    W --> DB
+    S1 -.-> O[/Logs · Metrics · Traces/]
+    S2 -.-> O
+    W -.-> O
+```
 
-<!-- ───────────── TECH STACK ───────────── -->
+<br/>
 
-### ⚙️ Tech stack
+## `~/exploring`
 
-<table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask,php,laravel&theme=dark" alt="backend" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="frontend" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data &amp; Messaging</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka&theme=dark" alt="data" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Infra &amp; Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,nginx,apache,linux,bash,git,github,gitlab,bitbucket&theme=dark" alt="infra" />
-    </td>
-  </tr>
-</table>
+| Area | Focus |
+| :-- | :-- |
+| 🧱 **Architecture** | service boundaries, layering, designing for change |
+| ⚡ **Scalability** | async processing, messaging, resilient integrations |
+| 🧭 **System design** | trade-offs, failure modes, consistency |
+| 🔧 **Engineering practice** | CI/CD, testing strategy, observability |
 
-<!-- ───────────── GITHUB ACTIVITY ───────────── -->
+<br/>
 
-### 📊 GitHub activity
+## `~/stack`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alzamiarafat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamiarafat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=alzamiarafat&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alzamiarafat&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask,php,laravel,js&perline=8&theme=dark" alt="backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,docker,nginx,linux,bash&perline=8&theme=dark" alt="data and infra" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,git,github,gitlab&perline=8&theme=dark" alt="frontend and tools" />
 
 </div>
 
-<!-- ───────────── FEATURED PROJECTS ───────────── -->
+<br/>
 
-### 🚀 Featured projects
-
-<!--
-  PLACEHOLDERS: replace REPO_NAME_1 / REPO_NAME_2 with the exact names of your own
-  public repositories, then delete this comment. Each card pulls its description and
-  language directly from GitHub, so nothing needs to be written by hand.
-  Cards for repos that don't exist will show an error, so only keep slots you fill.
--->
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/alzamiarafat/REPO_NAME_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/alzamiarafat/REPO_NAME_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- ───────────── CONNECT ───────────── -->
-
-### 🤝 Connect
+## `~/activity`
 
 <div align="center">
 
-<a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/GitHub-alzamiarafat-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-alzamiarafat00@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alzamiarafat&show_icons=true&theme=dark&hide_border=true&bg_color=010409&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamiarafat&layout=compact&hide_border=true&bg_color=010409&title_color=3FB950&text_color=c9d1d9&langs_count=6" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=alzamiarafat&hide_border=true&background=010409&stroke=30363d&ring=3FB950&fire=3FB950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=3FB950&sideLabels=8b949e&dates=8b949e" alt="Streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alzamiarafat&bg_color=010409&color=3FB950&line=3FB950&point=ffffff&area=true&hide_border=true&custom_title=commits%20over%20time" alt="Activity graph" />
+
+</div>
+
+<br/>
+
+## `~/projects`
+
+<!--
+  PLACEHOLDER: replace REPO_NAME_1..3 with your real public repo names, delete unused rows.
+-->
+
+| Repository | Description |
+| :-- | :-- |
+| [`REPO_NAME_1`](https://github.com/alzamiarafat/REPO_NAME_1) | _one-line description, replace me_ |
+| [`REPO_NAME_2`](https://github.com/alzamiarafat/REPO_NAME_2) | _one-line description, replace me_ |
+| [`REPO_NAME_3`](https://github.com/alzamiarafat/REPO_NAME_3) | _one-line description, replace me_ |
+
+<br/>
+
+## `~/contact`
+
+<div align="center">
+
+<a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/github-alzamiarafat-010409?style=flat-square&logo=github&logoColor=3FB950&labelColor=0d1117&color=30363d" alt="GitHub" /></a>
+<a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/email-alzamiarafat00@gmail.com-010409?style=flat-square&logo=gmail&logoColor=3FB950&labelColor=0d1117&color=30363d" alt="Email" /></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=420&height=24&lines=exit+0+%E2%80%94+thanks+for+stopping+by" alt="footer" />
 
 </div>
