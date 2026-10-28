@@ -1,4 +1,6 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Al%20Zami%20Arafat&fontColor=e6edf3&fontSize=44&fontAlignY=38&animation=fadeIn" alt="Al Zami Arafat" />
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:1f6feb,100:8957e5&text=Al%20Zami%20Arafat&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20FinTech&descAlignY=58&descSize=18&animation=twinkling" alt="Al Zami Arafat" />
 
