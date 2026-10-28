@@ -257,13 +257,6 @@ My goal is simple: **build systems that remain reliable when complexity, traffic
   />
 
   <br/><br/>
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alzamiarafat&bg_color=020617&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
-
 </div>
 
 ---
