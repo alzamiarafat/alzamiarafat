@@ -9,6 +9,9 @@
 <br/>
 
 <!-- ───────────── CONNECT (TOP) ───────────── -->
+<!-- ───────────── CONNECT (TOP) ───────────── -->
+<!-- PLACEHOLDER: replace https://YOUR-PORTFOLIO-URL with your real portfolio link -->
+<a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/al-zami-arafat"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://wa.me/8801780944266"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/GitHub-alzamiarafat-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/al-zami-arafat"><img src="https://img.shields.io/badge/LinkedIn-al--zami--arafat-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-alzamiarafat00@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
