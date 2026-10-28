@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Designing+APIs+that+stay+easy+to+change;Building+backend+systems+that+scale;Thinking+in+services%2C+queues+and+trade-offs;Correctness+first.+Then+speed." alt="typing" />
 </a>
 
+<br/>
+
+<!-- ───────────── CONNECT (TOP) ───────────── -->
+<a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/GitHub-alzamiarafat-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" alt="GitHub" /></a>
+<a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-alzamiarafat00@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58a6ff&labelColor=0d1117&color=21262d" alt="Backend" />
@@ -29,6 +35,47 @@ Money-moving systems are my favorite problems, because correctness isn't optiona
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:8957e5,100:0d1117" alt="" />
+
+<br/>
+
+<!-- ───────────── CAREER ───────────── -->
+<h3 align="center">🧭 &nbsp;What I've been building</h3>
+
+<table align="center">
+  <tr>
+    <td width="22%" align="center"><b>Payments &amp; FinTech</b><br/><sub>2024 → now</sub></td>
+    <td>
+      Backend engineer on a digital payments platform. I design the microservice architecture
+      (NestJS, Django, Flask) and the API gateway with auth for both external and service-to-service traffic.
+      Day to day: wallet and card payment flows, bank-to-wallet transfers, interbank fund transfers,
+      bill payments, tokenized recurring payments, and eKYC onboarding.
+      I also own CI/CD, code reviews and mentoring.
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>Platform &amp; ERP</b><br/><sub>2022 → 2024</sub></td>
+    <td>
+      Designed and built an ERP from scratch, then moved on to microservice-based REST APIs,
+      relational data modeling, live production database migrations, and recurring-payment integrations.
+      This is where I got serious about unit testing, CI/CD pipelines, and Kafka-backed messaging
+      for SMS delivery.
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>Full-stack foundations</b><br/><sub>2021 → 2022</sub></td>
+    <td>
+      Shipped web and mobile products end to end: React and React Native clients, Laravel-based CMS
+      and API backends, secure auth with multi-factor flows, and database design for high-traffic apps.
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>Where it started</b><br/><sub>2021</sub></td>
+    <td>
+      First professional work on Laravel platforms: admin and user panels, a procurement module,
+      a payment gateway, promo codes, and automated invoicing.
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -109,15 +156,4 @@ Money-moving systems are my favorite problems, because correctness isn't optiona
 <a href="https://github.com/alzamiarafat/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_2&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9" alt="Project 2" /></a>
 </div>
 
-<br/>
-
-<h3 align="center">📬 &nbsp;Connect</h3>
-
-<div align="center">
-
-<a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/GitHub-alzamiarafat-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" alt="GitHub" /></a>
-<a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8957e5,55:1f6feb,100:0d1117&section=footer&reversal=true" alt="" />
-
-</div>
