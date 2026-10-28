@@ -138,20 +138,6 @@
 
 <br/><br/>
 
-<!-- DYNAMIC REAL-TIME ACTIVITY WAVE GRAPH -->
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=alzamiarafat&bg_color=030712&color=38bdf8&line=7c3aed&point=ffffff&area=true&area_color=1e1b4b&hide_border=true&custom_title=System%20Commit%20Activity&animation=true" alt="Contribution graph" />
-
-</div>
-
-<br/>
-
-<!-- ───────────── FEATURED REPOSITORIES ───────────── -->
-<h3 align="center">🚀 &nbsp;Featured Repositories</h3>
-
-<div align="center">
-<!-- Replace REPO_NAME_1 and REPO_NAME_2 with your key public repositories -->
-<a href="https://github.com/alzamiarafat/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_1&hide_border=false&border_color=1e293b&border_radius=12&bg_color=030712&title_color=38bdf8&icon_color=7c3aed&text_color=cbd5e1" alt="Project 1" /></a>
-<a href="https://github.com/alzamiarafat/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_2&hide_border=false&border_color=1e293b&border_radius=12&bg_color=030712&title_color=38bdf8&text_color=cbd5e1" alt="Project 2" /></a>
 </div>
 
 <!-- ANIMATED WAVING FOOTER -->
