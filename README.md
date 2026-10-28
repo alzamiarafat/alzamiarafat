@@ -1,9 +1,6 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Al%20Zami%20Arafat&fontColor=e6edf3&fontSize=44&fontAlignY=38&animation=fadeIn" alt="Al Zami Arafat" />
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:1f6feb,100:8957e5&text=Al%20Zami%20Arafat&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20FinTech&descAlignY=58&descSize=18&animation=twinkling" alt="Al Zami Arafat" />
-
 <a href="https://github.com/alzamiarafat">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Designing+APIs+that+stay+easy+to+change;Building+backend+systems+that+scale;Thinking+in+services%2C+queues+and+trade-offs;Correctness+first.+Then+speed." alt="typing" />
 </a>
@@ -11,17 +8,10 @@
 <br/>
 
 <!-- ───────────── CONNECT (TOP) ───────────── -->
-<!-- ───────────── CONNECT (TOP) ───────────── -->
 <!-- PLACEHOLDER: replace https://YOUR-PORTFOLIO-URL with your real portfolio link -->
 <a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/al-zami-arafat"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://wa.me/8801780944266"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 <br/>
-
-<!-- PLACEHOLDER: replace https://YOUR-PORTFOLIO-URL with your real portfolio link -->
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-View_my_work-8957e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://wa.me/8801780944266"><img src="https://img.shields.io/badge/WhatsApp-Message_me-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58a6ff&labelColor=0d1117&color=21262d" alt="Backend" />
 <img src="https://img.shields.io/badge/Distributed_Systems-0d1117?style=for-the-badge&logo=apachekafka&logoColor=8957e5&labelColor=0d1117&color=21262d" alt="Distributed Systems" />
