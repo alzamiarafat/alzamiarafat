@@ -1,111 +1,123 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,100:0d1117&height=4" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:1f6feb,100:8957e5&text=Al%20Zami%20Arafat&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20FinTech&descAlignY=58&descSize=18&animation=twinkling" alt="Al Zami Arafat" />
 
 <a href="https://github.com/alzamiarafat">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=3FB950&background=0D111700&center=true&vCenter=true&width=700&height=70&lines=%24+whoami;al-zami-arafat+%E2%86%92+software+engineer;%24+cat+focus.txt;backend+%C2%B7+distributed+systems+%C2%B7+api+design;fintech+%C2%B7+software+architecture;%24+_" alt="Terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Designing+APIs+that+stay+easy+to+change;Building+backend+systems+that+scale;Thinking+in+services%2C+queues+and+trade-offs;Correctness+first.+Then+speed." alt="typing" />
 </a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,100:0d1117&height=4" alt="" />
-
-</div>
-
-<br/>
-
-```bash
-alzamiarafat@github:~$ cat about.md
-
-I build backend systems and care about the boring parts:
-clear contracts, predictable failures, and code that's easy to change.
-FinTech is where I like to work, since correctness isn't optional there.
-```
-
-<br/>
-
-## `~/mental-model`
-
-> How I like to think about a service.
-
-```mermaid
-flowchart LR
-    C([Client]) --> G[API Gateway]
-    G --> A[Auth]
-    G --> S1[Service A]
-    G --> S2[Service B]
-    S1 --> DB[(Database)]
-    S2 --> Q{{Message Queue}}
-    Q --> W[Worker]
-    W --> DB
-    S1 -.-> O[/Logs · Metrics · Traces/]
-    S2 -.-> O
-    W -.-> O
-```
-
-<br/>
-
-## `~/exploring`
-
-| Area | Focus |
-| :-- | :-- |
-| 🧱 **Architecture** | service boundaries, layering, designing for change |
-| ⚡ **Scalability** | async processing, messaging, resilient integrations |
-| 🧭 **System design** | trade-offs, failure modes, consistency |
-| 🔧 **Engineering practice** | CI/CD, testing strategy, observability |
-
-<br/>
-
-## `~/stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask,php,laravel,js&perline=8&theme=dark" alt="backend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,docker,nginx,linux,bash&perline=8&theme=dark" alt="data and infra" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,git,github,gitlab&perline=8&theme=dark" alt="frontend and tools" />
-
-</div>
-
-<br/>
-
-## `~/activity`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alzamiarafat&show_icons=true&theme=dark&hide_border=true&bg_color=010409&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamiarafat&layout=compact&hide_border=true&bg_color=010409&title_color=3FB950&text_color=c9d1d9&langs_count=6" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=alzamiarafat&hide_border=true&background=010409&stroke=30363d&ring=3FB950&fire=3FB950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=3FB950&sideLabels=8b949e&dates=8b949e" alt="Streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alzamiarafat&bg_color=010409&color=3FB950&line=3FB950&point=ffffff&area=true&hide_border=true&custom_title=commits%20over%20time" alt="Activity graph" />
-
-</div>
-
-<br/>
-
-## `~/projects`
-
-<!--
-  PLACEHOLDER: replace REPO_NAME_1..3 with your real public repo names, delete unused rows.
--->
-
-| Repository | Description |
-| :-- | :-- |
-| [`REPO_NAME_1`](https://github.com/alzamiarafat/REPO_NAME_1) | _one-line description, replace me_ |
-| [`REPO_NAME_2`](https://github.com/alzamiarafat/REPO_NAME_2) | _one-line description, replace me_ |
-| [`REPO_NAME_3`](https://github.com/alzamiarafat/REPO_NAME_3) | _one-line description, replace me_ |
-
-<br/>
-
-## `~/contact`
-
-<div align="center">
-
-<a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/github-alzamiarafat-010409?style=flat-square&logo=github&logoColor=3FB950&labelColor=0d1117&color=30363d" alt="GitHub" /></a>
-<a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/email-alzamiarafat00@gmail.com-010409?style=flat-square&logo=gmail&logoColor=3FB950&labelColor=0d1117&color=30363d" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=420&height=24&lines=exit+0+%E2%80%94+thanks+for+stopping+by" alt="footer" />
+<img src="https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58a6ff&labelColor=0d1117&color=21262d" alt="Backend" />
+<img src="https://img.shields.io/badge/Distributed_Systems-0d1117?style=for-the-badge&logo=apachekafka&logoColor=8957e5&labelColor=0d1117&color=21262d" alt="Distributed Systems" />
+<img src="https://img.shields.io/badge/API_Design-0d1117?style=for-the-badge&logo=postman&logoColor=58a6ff&labelColor=0d1117&color=21262d" alt="API Design" />
+<img src="https://img.shields.io/badge/FinTech-0d1117?style=for-the-badge&logo=stripe&logoColor=8957e5&labelColor=0d1117&color=21262d" alt="FinTech" />
+<img src="https://img.shields.io/badge/Architecture-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=58a6ff&labelColor=0d1117&color=21262d" alt="Architecture" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:1f6feb,100:0d1117" alt="" />
+
+<h3 align="center">👋 &nbsp;Hey, I'm Arafat</h3>
+
+<p align="center">
+I like the part of software you never see until it breaks.<br/>
+Clear contracts, predictable failures, services with honest boundaries.<br/>
+Money-moving systems are my favorite problems, because correctness isn't optional there.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:8957e5,100:0d1117" alt="" />
+
+<br/>
+
+<h3 align="center">🔭 &nbsp;Currently exploring</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <b>🧱 Architecture</b><br/>
+      <sub>service boundaries<br/>layering · design for change</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>⚡ Scalability</b><br/>
+      <sub>async processing<br/>messaging · resilience</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>🧭 System design</b><br/>
+      <sub>trade-offs<br/>failure modes · consistency</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>🔧 Practices</b><br/>
+      <sub>CI/CD · testing<br/>observability</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">🧰 &nbsp;Tech stack</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BACKEND-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117" alt="" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask,php,laravel,js&perline=8&theme=dark" alt="backend" />
+<br/><br/>
+<img src="https://img.shields.io/badge/DATA_%26_MESSAGING-0d1117?style=flat-square&labelColor=8957e5&color=0d1117" alt="" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka&perline=8&theme=dark" alt="data" />
+<br/><br/>
+<img src="https://img.shields.io/badge/INFRA_%26_TOOLS-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117" alt="" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,apache,linux,bash,git,github,gitlab&perline=8&theme=dark" alt="infra" />
+<br/><br/>
+<img src="https://img.shields.io/badge/FRONTEND-0d1117?style=flat-square&labelColor=8957e5&color=0d1117" alt="" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8&theme=dark" alt="frontend" />
+
+</div>
+
+<br/>
+
+<h3 align="center">📈 &nbsp;GitHub activity</h3>
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=alzamiarafat&show_icons=true&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamiarafat&layout=compact&langs_count=6&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=alzamiarafat&border_radius=12&stroke=21262d&background=0d1117&ring=8957e5&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="Contribution streak" />
+
+<br/>
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=alzamiarafat&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+
+</div>
+
+<br/>
+
+<h3 align="center">🚀 &nbsp;Featured projects</h3>
+
+<!--
+  PLACEHOLDER: replace REPO_NAME_1 and REPO_NAME_2 with the exact names of your
+  public repositories, then delete this comment. Cards pull their description and
+  language straight from GitHub. Delete any slot you don't fill (a missing repo shows an error).
+-->
+
+<div align="center">
+<a href="https://github.com/alzamiarafat/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_1&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9" alt="Project 1" /></a>
+<a href="https://github.com/alzamiarafat/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alzamiarafat&repo=REPO_NAME_2&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9" alt="Project 2" /></a>
+</div>
+
+<br/>
+
+<h3 align="center">📬 &nbsp;Connect</h3>
+
+<div align="center">
+
+<a href="https://github.com/alzamiarafat"><img src="https://img.shields.io/badge/GitHub-alzamiarafat-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" alt="GitHub" /></a>
+<a href="mailto:alzamiarafat00@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8957e5,55:1f6feb,100:0d1117&section=footer&reversal=true" alt="" />
 
 </div>
