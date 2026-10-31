@@ -237,12 +237,6 @@ My goal is simple: **build systems that remain reliable when complexity, traffic
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=alzamiarafat&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&ring_color=38BDF8"
-    height="180"
-    alt="GitHub statistics"
-  />
-
-  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzamiarafat&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"
     height="180"
     alt="Most used programming languages"
